@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="每日科技资讯聚合 - GitHub Trending, Hacker News, 科技媒体 RSS">
+    <meta name="keywords" content="科技新闻,GitHub,Hacker News,技术资讯,程序员">
+    <title>每日科技资讯 | Daily Tech News</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚀</text></svg>">
+</head>
+<body>
+    <!-- 头部 -->
+    <header class="header">
+        <div class="container">
+            <h1 class="header-title">🚀 每日科技资讯</h1>
+            <p class="header-subtitle">Daily Tech News Aggregator</p>
+            <p id="update-time" class="update-time">正在加载...</p>
+            <div class="header-stats" id="stats">
+                <span class="stat-item">📊 <span id="stat-github">-</span> GitHub</span>
+                <span class="stat-item">📰 <span id="stat-hn">-</span> Hacker News</span>
+                <span class="stat-item">📡 <span id="stat-rss">-</span> RSS</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- 导航 -->
+    <nav class="nav">
+        <div class="container">
+            <button class="nav-btn active" data-section="github">GitHub Trending</button>
+            <button class="nav-btn" data-section="hackernews">Hacker News</button>
+            <button class="nav-btn" data-section="rss">RSS Feeds</button>
+        </div>
+    </nav>
+
+    <!-- 主内容 -->
+    <main class="container">
+        
+        <!-- GitHub Trending 区域 -->
+        <section id="github-section" class="content-section active">
+            <div class="section-header">
+                <h2>📊 GitHub Trending</h2>
+                <div class="language-tabs" id="language-tabs">
+                    <button class="tab-btn active" data-lang="python">Python</button>
+                    <button class="tab-btn" data-lang="javascript">JavaScript</button>
+                    <button class="tab-btn" data-lang="go">Go</button>
+                    <button class="tab-btn" data-lang="rust">Rust</button>
+                    <button class="tab-btn" data-lang="java">Java</button>
+                    <button class="tab-btn" data-lang="typescript">TypeScript</button>
+                </div>
+            </div>
+            <div id="github-list" class="card-grid"></div>
+        </section>
+
+        <!-- Hacker News 区域 -->
+        <section id="hackernews-section" class="content-section">
+            <div class="section-header">
+                <h2>📰 Hacker News Top Stories</h2>
+            </div>
+            <div id="hackernews-list" class="card-grid"></div>
+        </section>
+
+        <!-- RSS Feeds 区域 -->
+        <section id="rss-section" class="content-section">
+            <div class="section-header">
+                <h2>📡 RSS Feeds</h2>
+                <div class="rss-sources" id="rss-sources">
+                    <button class="source-btn active" data-source="all">全部</button>
+                </div>
+            </div>
+            <div id="rss-list" class="card-grid"></div>
+        </section>
+
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <div class="container">
+            <p>数据来源: GitHub Trending · Hacker News · TechCrunch · The Verge · Ars Technica · 36氪 · 少数派</p>
+            <p>
+                <a href="https://github.com/yourusername/tech-news-daily" target="_blank" rel="noopener">
+                    <svg height="20" viewBox="0 0 16 16" width="20" fill="currentColor">
+                        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+                    </svg>
+                    View on GitHub
+                </a>
+            </p>
+            <p class="footer-note">每日自动更新 · 由 GitHub Actions 驱动</p>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

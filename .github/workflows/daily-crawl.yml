@@ -1,0 +1,42 @@
+name: Daily Tech News Crawler
+
+on:
+  schedule:
+    # 每天 UTC 0:00 执行 (北京时间 8:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 允许手动触发
+  push:
+    branches: [ main ]
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+        
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        
+    - name: Run crawler
+      run: |
+        python src/main.py
+        
+    - name: Commit and push if changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add data/*.json docs/data/*.json data/archive/*.json
+        git diff --quiet && git diff --staged --quiet || \
+        (git commit -m "🤖 Auto update: $(date +'%Y-%m-%d %H:%M:%S UTC')" && git push)

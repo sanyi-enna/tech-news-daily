@@ -6,7 +6,7 @@
 
 每日自动聚合全球科技资讯，包括 GitHub Trending、Hacker News 和主流科技媒体 RSS。
 
-🌐 **在线访问**: [https://sanyi-enna.github.io/tech-news-daily/](https://yourusername.github.io/tech-news-daily/)
+🌐 **在线访问**: [https://sanyi-enna.github.io/](https://yourusername.github.io/tech-news-daily/)
 
 ## ✨ 特性
 

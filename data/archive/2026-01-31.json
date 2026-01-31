@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-31T01:48:59.081597",
   "date": "2026-01-31",
+  "timestamp": "2026-01-31T01:48:59.081597",
   "github_trending": {
     "python": [
       {
@@ -1279,6 +1279,105 @@
       "timestamp": 1769818342,
       "comments": 11,
       "hn_url": "https://news.ycombinator.com/item?id=46831784"
+    },
+    {
+      "id": 46782412,
+      "title": "The National Herbarium of Ireland digital collection of Irish plants",
+      "url": "https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/",
+      "score": 96,
+      "author": "gnabgib",
+      "time": "2026-01-27 16:42:18",
+      "timestamp": 1769532138,
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=46782412"
+    },
+    {
+      "id": 46823445,
+      "title": "Email experiments: filtering out external images",
+      "url": "https://www.terracrypt.net/posts/email-experiments-image-filtering.html",
+      "score": 42,
+      "author": "todsacerdoti",
+      "time": "2026-01-30 12:01:36",
+      "timestamp": 1769774496,
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=46823445"
+    },
+    {
+      "id": 46824877,
+      "title": "Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents",
+      "url": "https://github.com/amlalabs/amla-sandbox",
+      "score": 124,
+      "author": "souvik1997",
+      "time": "2026-01-30 14:34:32",
+      "timestamp": 1769783672,
+      "comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=46824877"
+    },
+    {
+      "id": 46823485,
+      "title": "Code is cheap. Show me the talk",
+      "url": "https://nadh.in/blog/code-is-cheap/",
+      "score": 165,
+      "author": "ghostfoxgod",
+      "time": "2026-01-30 12:05:50",
+      "timestamp": 1769774750,
+      "comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=46823485"
+    },
+    {
+      "id": 46822630,
+      "title": "Surely the crash of the US economy has to be soon",
+      "url": "https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/",
+      "score": 156,
+      "author": "Wilsoniumite",
+      "time": "2026-01-30 10:14:23",
+      "timestamp": 1769768063,
+      "comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=46822630"
+    },
+    {
+      "id": 46816644,
+      "title": "Building docs like a product",
+      "url": "https://emschwartz.me/building-docs-like-a-product/",
+      "score": 52,
+      "author": "emschwartz",
+      "time": "2026-01-29 21:11:41",
+      "timestamp": 1769721101,
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=46816644"
+    },
+    {
+      "id": 46773793,
+      "title": "Quack-Cluster: A Serverless Distributed SQL Query Engine with DuckDB and Ray",
+      "url": "https://github.com/kristianaryanto/Quack-Cluster",
+      "score": 65,
+      "author": "tanelpoder",
+      "time": "2026-01-27 00:24:56",
+      "timestamp": 1769473496,
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=46773793"
+    },
+    {
+      "id": 46755270,
+      "title": "The Home Computer Hybrids",
+      "url": "https://technicshistory.com/2026/01/25/the-home-computer-hybrids/",
+      "score": 38,
+      "author": "cfmcdonald",
+      "time": "2026-01-25 16:06:20",
+      "timestamp": 1769357180,
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=46755270"
+    },
+    {
+      "id": 46782357,
+      "title": "Emoji Design Convergence Review: 2018-2026",
+      "url": "https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/",
+      "score": 49,
+      "author": "surprisetalk",
+      "time": "2026-01-27 16:39:27",
+      "timestamp": 1769531967,
+      "comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=46782357"
     }
   ],
   "rss_feeds": [
@@ -1521,12 +1620,406 @@
       "published": "2026-01-29 19:51:45",
       "summary": "Comcast overhauled Internet plans to stop customer losses. It isn't working yet.",
       "author": "Jon Brodkin"
+    },
+    {
+      "title": "Right-Wing Gun Enthusiasts and Extremists Are Working Overtime to Justify Alex Pretti’s Killing",
+      "url": "https://www.wired.com/story/right-wing-gun-enthusiasts-and-extremists-are-working-overtime-to-justify-alex-prettis-killing/",
+      "source": "Wired",
+      "published": "2026-01-30 22:49:24",
+      "summary": "Donald Trump has appeared to undermine Second Amendment rights in statements about Alex Pretti’s killing. Many in the firearms community are going along with it.",
+      "author": "David Gilbert"
+    },
+    {
+      "title": "I Let Google’s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn’t Quite Click",
+      "url": "https://www.wired.com/story/google-chrome-auto-browse-hands-on/",
+      "source": "Wired",
+      "published": "2026-01-30 20:41:49",
+      "summary": "Auto Browse can shop for clothes, plan a trip, and buy tickets for you. Or at least, that’s the idea.",
+      "author": "Reece Rogers"
+    },
+    {
+      "title": "3 Great Heated Blanket Deals on My Favorite Affordable Models",
+      "url": "https://www.wired.com/story/heated-blanket-deals-january-2026/",
+      "source": "Wired",
+      "published": "2026-01-30 19:41:36",
+      "summary": "Some of our favorite heated blankets are on sale (and might even arrive in time for you to use this weekend).",
+      "author": "Louryn Strampe"
+    },
+    {
+      "title": "After Minneapolis, Tech CEOs Are Struggling to Stay Silent",
+      "url": "https://www.wired.com/story/after-minneapolis-tech-ceos-are-struggling-to-stay-silent/",
+      "source": "Wired",
+      "published": "2026-01-30 16:00:00",
+      "summary": "Silicon Valley’s power brokers spent the past year currying favor with President Trump. Two deadly shootings in Minneapolis are now exposing the price of that bargain.",
+      "author": "Steven Levy"
+    },
+    {
+      "title": "6 Best Beard Trimmers (2026): Full Beards, Hair, Stubble",
+      "url": "https://www.wired.com/gallery/best-beard-trimmers/",
+      "source": "Wired",
+      "published": "2026-01-30 14:30:00",
+      "summary": "WIRED has been testing beard trimmers for six years. Our favorite is compact, reliable, ridiculously adjustable, and offers a five-year warranty.",
+      "author": "Matthew Korfhage"
+    },
+    {
+      "title": "The Best Soundbars We’ve Tested: Sonos, Sony, Bose, and More",
+      "url": "https://www.wired.com/gallery/best-soundbars/",
+      "source": "Wired",
+      "published": "2026-01-30 14:04:00",
+      "summary": "Every television deserves a row of speakers to call its own. These are our favorite soundbars from Samsung, Yamaha, Bose, and more.",
+      "author": "Parker Hall, Ryan Waniata"
+    },
+    {
+      "title": "‘Infinite Jest’ Is Back. Maybe Litbros Should Be, Too",
+      "url": "https://www.wired.com/story/infinite-jest-is-back-if-only-litbros-were-too/",
+      "source": "Wired",
+      "published": "2026-01-30 13:47:14",
+      "summary": "The notoriously challenging book is being rereleased for its 30th anniversary. Its fandom is annoying, sure—but at least they read.",
+      "author": "John Semley"
+    },
+    {
+      "title": "Samsung S90F QD-OLED TV Review: Refined From Any Angle",
+      "url": "https://www.wired.com/review/samsung-s90f/",
+      "source": "Wired",
+      "published": "2026-01-30 13:00:00",
+      "summary": "With impeccable accuracy and poise, Samsung’s midrange OLED dazzles on the little things.",
+      "author": "Ryan Waniata"
+    },
+    {
+      "title": "Keychron Q16 HE 8K Review: A Ceramic Disappointment",
+      "url": "https://www.wired.com/review/keychron-q16-he-8k/",
+      "source": "Wired",
+      "published": "2026-01-30 12:30:00",
+      "summary": "Great keyboard technology inside a disappointing, conceptually flawed ceramic shell.",
+      "author": "Henri Robbins"
+    },
+    {
+      "title": "Viome Full Body Intelligence Test Review: Little Clarity, Pricey Supplements",
+      "url": "https://www.wired.com/review/viome-full-body-intelligence-test/",
+      "source": "Wired",
+      "published": "2026-01-30 12:00:00",
+      "summary": "Virtually every aspect of your health can be traced back to your microbiome. But some tests are better than others.",
+      "author": "Brent Rose"
+    },
+    {
+      "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
+      "url": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-30 16:32:31",
+      "summary": "Civitai—an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz—is letting users buy custom instruction files for generating celebrity...",
+      "author": "James O'Donnell"
+    },
+    {
+      "title": "The Download: US immigration agencies’ AI videos, and inside the Vitalism movement",
+      "url": "https://www.technologyreview.com/2026/01/30/1132022/the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-30 13:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. DHS is using Google and Adobe AI to make videos The news: The ...",
+      "author": "Rhiannon Williams"
+    },
+    {
+      "title": "How the sometimes-weird world of lifespan extension is gaining influence",
+      "url": "https://www.technologyreview.com/2026/01/30/1131933/weird-world-lifespan-extension-gaining-influence-oneill-arpa-h/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-30 10:00:00",
+      "summary": "For the last couple of years, I’ve been following the progress of a group of individuals who believe death is humanity’s “core problem.” Put simply, they say death is wrong—for everyone. They’ve even ...",
+      "author": "Jessica Hamzelou"
+    },
+    {
+      "title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
+      "url": "https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-29 20:56:23",
+      "summary": "Everyone is panicking because AI is very bad; everyone is panicking because AI is very good. It’s just that you never know which one you’re going to get. Grok is a pornography machine. Claude Code can...",
+      "author": "Michelle Kim"
+    },
+    {
+      "title": "DHS is using Google and Adobe AI to make videos",
+      "url": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-29 18:57:11",
+      "summary": "The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared with the public, a new document reveals. It comes as immigration agencies have...",
+      "author": "James O'Donnell"
+    },
+    {
+      "title": "The Download: inside the Vitalism movement, and why AI’s “memory” is a privacy problem",
+      "url": "https://www.technologyreview.com/2026/01/29/1131925/the-download-inside-the-vitalism-movement-and-why-ais-memory-is-a-privacy-problem/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-29 13:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the Vitalists: the hardcore longevity enthusiasts who bel...",
+      "author": "Rhiannon Williams"
+    },
+    {
+      "title": "How the grid can ride out winter storms",
+      "url": "https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-29 11:00:00",
+      "summary": "The eastern half of the US saw a monster snowstorm over the weekend. The good news is the grid has largely been able to keep up with the freezing temperatures and increased demand. But there were some...",
+      "author": "Casey Crownhart"
+    },
+    {
+      "title": "Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong”",
+      "url": "https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-29 10:00:00",
+      "summary": "“Who here believes involuntary death is a good thing?”  Nathan Cheng has been delivering similar versions of this speech over the last couple of years, so I knew what was coming. He was about to try t...",
+      "author": "Jessica Hamzelou"
+    },
+    {
+      "title": "Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear",
+      "url": "https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-28 16:23:00",
+      "summary": "AI is driving unprecedented investment for massive data centers and an energy supply that can support its huge computational appetite. One potential source of electricity for these facilities is next-...",
+      "author": "MIT Technology Review"
+    },
+    {
+      "title": "What AI “remembers” about you is privacy’s next frontier",
+      "url": "https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-28 14:57:37",
+      "summary": "The ability to remember you and your preferences is rapidly becoming a big selling point for AI chatbots and agents.  Earlier this month, Google announced Personal Intelligence, a new way for people t...",
+      "author": "Miranda Bogen, Ruchika Joshi"
+    },
+    {
+      "title": "9点1氪｜特朗普宣布下任美联储主席提名人选；广东连续8年成为第一生育大省；“黑白颠周媛”被立案调查",
+      "url": "https://36kr.com/p/3662644247323264?f=rss",
+      "source": "36氪",
+      "published": "2026-01-31 01:17:50",
+      "summary": "今日热点导览\n  \n   中国最新富豪榜出炉\n   金价未来几年有望涨到8000美元至8500美元\n   iPhone 18 Pro或直连星链\n   监管通报“某基金产品单日吸金超百亿”事件\n   特朗普起诉美国财政部和国税局，索赔至少100亿美元\n  \n  TOP3大新闻\n  特朗普提名美联储新主席人选\n  当地时间1月30日上午，美国总统特朗普提名美国联邦储备委员会前理事凯文·沃什出任下一任美...",
+      "author": "Unknown"
+    },
+    {
+      "title": "中建信和在北京栽了",
+      "url": "https://36kr.com/p/3661725998523267?f=rss",
+      "source": "36氪",
+      "published": "2026-01-30 10:56:05",
+      "summary": "过去两年，北京市场上有约三分之一的地被中建系拿走了。\n  2024年、2025年，中建系（含中海、中建智地、中建壹品、中建信和、中建玖合、中建方程）累计拿地20宗，总金额1021.64亿元，占到两年市场总金额2981.62亿的33.8%，大有瓜分北京之势。\n  拿地最猛的要数中建一局旗下的中建智地和中建三局旗下的中建壹品，分别拍下7宗、5宗宅地，这两家合计拿地超过了520亿元。\n  不过，从去年开...",
+      "author": "Unknown"
+    },
+    {
+      "title": "氪星晚报｜苹果收购人工智能初创公司；诺和诺德中国区总裁将离职；SpaceX发布空间态势感知系统Stargaze",
+      "url": "https://36kr.com/p/3661493683643272?f=rss",
+      "source": "36氪",
+      "published": "2026-01-30 09:52:37",
+      "summary": "大公司：\n  大唐发电：预计2025年归母净利润约68亿元-78亿元，同比增加约51%-73%\n  36氪获悉，大唐发电发布2025年业绩预告。报告显示，预计2025年度实现归属于母公司所有者的净利润约为68亿元（人民币，下同）至78亿元，同比增加约51%到73%。预计2025年度实现归属于母公司所有者扣除非经常性损益事项的净利润约为72亿元到82亿元，同比增加约60%到82%。\n  洽洽食品：预...",
+      "author": "Unknown"
+    },
+    {
+      "title": "阿里系前高管出任机器人租赁平台“擎天租”总裁、首席战略官，将建设全国合伙人网络丨智能涌现独家",
+      "url": "https://36kr.com/p/3661687880147849?f=rss",
+      "source": "36氪",
+      "published": "2026-01-30 09:11:57",
+      "summary": "文｜富充\n  编辑｜苏建勋\n  具身智能产业的热度蔓延至机器人租赁市场，让互联网老兵们也“坐不住”了。\n  《智能涌现》独家获悉，阿里“中供铁军”首任校长、阿里B2B销售培训体系参与建立者李立恒，与另一位阿里系“三板斧”负责管理培训业务的王明峰（天相）将入职机器人租赁平台擎天租，分别出任总裁、首席战略官。\n  擎天租平台发布于2025年12月，并于2026年1月15日披露种子轮融资。该轮次由高瓴创...",
+      "author": "Unknown"
+    },
+    {
+      "title": "求购星河动力公司老股份额；求购天兵科技老股份额｜资情留言板第178期",
+      "url": "https://36kr.com/p/3661668026737287?f=rss",
+      "source": "36氪",
+      "published": "2026-01-30 08:42:00",
+      "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。\n  本文是这个栏目的第178期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.co...",
+      "author": "Unknown"
+    },
+    {
+      "title": "一家AI玩具公司获数千万元融资，核心产品销量翻五倍｜硬氪首发",
+      "url": "https://36kr.com/p/3654915542130816?f=rss",
+      "source": "36氪",
+      "published": "2026-01-30 01:30:00",
+      "summary": "作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，AI玩具厂商上海喜梨信息科技���限公司（以下简称“FoloToy”）近日完成数千万元新一轮融资。指数资本担任公司独家财务顾问。我们总结了本轮融资信息和该公司几大亮点：\n  融资金额及投资机构\n  融资轮次：Pre-A轮/ Pre-A+轮\n  融资规模：数千万元\n  投资方：深创投、南山战新投、老股东火火兔\n  资金用途：将重点用于加速技术研发与产品端持...",
+      "author": "Unknown"
+    },
+    {
+      "title": "8点1氪丨国铁回应“抢票神器诱导加价”：12306是唯一官方售票渠道；iPhone 16成去年全球最畅销智能手机；UC浏览器开发商被罚没126万元",
+      "url": "https://36kr.com/p/3661162161234566?f=rss",
+      "source": "36氪",
+      "published": "2026-01-30 00:10:16",
+      "summary": "今日热点导览\n  麦趣尔，被申请破产清算\n  银河系新发现一颗“潜在宜居”候选行星\n  白银基金，1月30日全天停牌\n  2026年春运全社会跨区域人员流动量预计将达95亿人次\n  好想来回应消费者质疑“称不准” ：新员工操作失误\n  TOP3大新闻\n  国铁集团回应“三方平台加价抢票”\n  1月29日，国铁集团客运部主任朱文忠在国新办新闻发布会上的公开声明：“一些第三方平台以各种‘抢票神器’名目...",
+      "author": "Unknown"
+    },
+    {
+      "title": "36氪研究院 | 2026年具身智能产业发展研究报告",
+      "url": "https://36kr.com/p/3660312420180864?f=rss",
+      "source": "36氪",
+      "published": "2026-01-29 23:30:00",
+      "summary": "当前，在政策引领、技术突破与市场需求的共振驱动下，中国具身智能产业正迈入快速发展的新阶段。在此背景下，资本市场布局也日益活跃。公开资料数据显示，2025年前11个月具身智能产业融资额达到334.73亿元，是2024年同期的4倍；截至2025年12月21日，全年融资事件超305起，总额超过380亿元，参与的投资机构数量超过600家。资本的密集涌入，充分印证了产业发展的潜力与市场信心。这种信心，根植于...",
+      "author": "Unknown"
+    },
+    {
+      "title": "手机或Pocket？想要生活「电影化」，你更信谁？",
+      "url": "https://36kr.com/p/3660433916093313?f=rss",
+      "source": "36氪",
+      "published": "2026-01-29 12:03:45",
+      "summary": "春节临近，假日出行气氛拉满，年轻人的心已经不在工位了——新春旅程，是去滑雪场体验速度与激情，逛逛热闹的庙会？还是去温暖的海岛感受浪与海风？\n  \n  虽然年轻人早已习惯随时掏出手机记录旅拍，能被成功收藏的精品照片却少之又少——手机里的影像完全无法还原旅途中肉眼所见精彩的万分之一。拍景，不够绚丽，拍人，更成了翻车现场，想给亲朋好友留份纪念，却反而为拍摄效果烦恼不断，错过当下享受。\n  年轻人的拍照痛...",
+      "author": "Unknown"
+    },
+    {
+      "title": "能录音的AI戒指，是个伪需求吗？|一个95后的硬件生死局",
+      "url": "https://36kr.com/p/3660353540236168?f=rss",
+      "source": "36氪",
+      "published": "2026-01-29 10:33:48",
+      "summary": "\n   \n  “多模态的AI戒指才是终局。”\n  \n   \n  2025年8月，我在广州的Wteam创客节上第一次见到唐畅，和他的AI戒指——确切的说是一个黑色的戒指模型，3D打印的，因为硬件工程师跑路了——很宽很厚很粗糙，上面还有一块方形的凸起，说是嵌入的摄像头。\n  即便如此简陋，还是吸引来一波关注，问他一堆类似真机摸样、能干嘛、如何保护隐私等问题。在这个充满试探与可能性的AI时代，可穿戴式智...",
+      "author": "Unknown"
+    },
+    {
+      "title": "别只练力量和心肺，人生下半场拼的是肌肉爆发力",
+      "url": "https://sspai.com/prime/story/a-guide-to-muscle-explosive-power",
+      "source": "少数派",
+      "published": "2026-01-30 10:16:30",
+      "summary": "今天这篇文章，就来聊聊，肌肉爆发力究竟是什么？它为何对长寿如此重要？以及普通人该如何科学训练爆发力？查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "author": "举铁的马里奥"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "url": "https://sspai.com/post/105907",
+      "source": "少数派",
+      "published": "2026-01-30 10:04:47",
+      "summary": "📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》首支预告1月30日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了首支预告，定档7月开始播出。木村翔马执导，圆城塔编剧， ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "停更但好用的 DriveDroid：把 Android 手机变成 USB 启动盘",
+      "url": "https://sspai.com/post/104564",
+      "source": "少数派",
+      "published": "2026-01-30 07:00:00",
+      "summary": "编注：本文为少数派12月主题征稿活动中「可惜！那些好用但停更了的App」主题入选投稿之一，我们将在日后开展更多不同领域和话题的征稿活动，敬请留意。前言作为一个将ArchLinux作为主力系统使用多年的 ...查看全文",
+      "author": "so1ar"
+    },
+    {
+      "title": "你真的是记性不好吗？关于记忆和遗忘的常见误区",
+      "url": "https://sspai.com/post/105677",
+      "source": "少数派",
+      "published": "2026-01-30 03:13:23",
+      "summary": "虽然我们每天都把记忆、遗忘这些词挂在嘴边，但记忆实际上不是一种单一的能力，而遗忘也不是一件全然的坏事。查看全文",
+      "author": "知道分子吴先先"
+    },
+    {
+      "title": "派早报：小米发布 REDMI Turbo 5 系列手机等",
+      "url": "https://sspai.com/post/105895",
+      "source": "少数派",
+      "published": "2026-01-30 00:35:32",
+      "summary": "微信发布针对第三方违规行为的专项打击公告，MiniMax 稀宇科技发布 MiniMax Music 2.5 模型等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "新玩意 234｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/105869",
+      "source": "少数派",
+      "published": "2026-01-29 09:07:26",
+      "summary": "很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内 ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "左手 Tana，右手 Heptabase：为什么我两个都要？",
+      "url": "https://sspai.com/post/105622",
+      "source": "少数派",
+      "published": "2026-01-29 06:13:25",
+      "summary": "知识管理的终点并不是建立一个完美的系统，而是让自己成为一个更清晰的思考者。工具只是起点，思考才是终点。查看全文",
+      "author": "5key"
+    },
+    {
+      "title": "你的隐私你做主，所有人都应该知道的 9 个 iPhone 隐私保护技巧",
+      "url": "https://sspai.com/post/99910",
+      "source": "少数派",
+      "published": "2026-01-29 03:31:39",
+      "summary": "这篇文章整理了一些能够让你更好地保护 iPhone 数据和隐私安全的技巧，希望能对你有所帮助。查看全文",
+      "author": "Tp"
+    },
+    {
+      "title": "派早报：Apple Creator Studio 正式上线、Kimi K2.5 模型发布等",
+      "url": "https://sspai.com/post/105850",
+      "source": "少数派",
+      "published": "2026-01-29 00:49:05",
+      "summary": "英伟达正式推出 RTX Remix Logic、英特尔 XeSS 3 多帧生成功能正式推送等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "将专业创作工具交到更多人手中：Apple Creator Studio 你也许想了解的那些事",
+      "url": "https://sspai.com/post/105823",
+      "source": "少数派",
+      "published": "2026-01-28 14:17:58",
+      "summary": "Apple 推出全新创意工具套装服务，你会考虑订阅吗？查看全文",
+      "author": "waychane"
+    },
+    {
+      "title": "Swift跨平台框架Skip现已完全开源",
+      "url": "https://www.infoq.cn/article/TflNBc7EvNHoKCyDEdj3?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-01-31 09:00:00",
+      "summary": "点击查看原文>",
+      "author": "Sergio De Simone"
+    },
+    {
+      "title": "摩擦解决之道：改变关键要素",
+      "url": "https://www.infoq.cn/article/ah0Xq4eGpFGrOEJOdfNX?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-01-31 08:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Cat Morris, Diana Montalion"
+    },
+    {
+      "title": "从三大支柱出发：Snowflake 平台的一次系统级升级",
+      "url": "https://www.infoq.cn/article/4BOafAxF30X1K8AQd8qM?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-01-30 19:44:26",
+      "summary": "点击查看原文>",
+      "author": "王玮"
+    },
+    {
+      "title": "如何用 dbt MCP 服务器和 Snowflake 构建智能体工作流",
+      "url": "https://www.infoq.cn/article/lRtX3TRRZGq0dr6tl66q?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-01-30 19:21:33",
+      "summary": "点击查看原文>",
+      "author": "王玮"
+    },
+    {
+      "title": "劈柴哥和哈萨比斯亲自站台！谷歌世界模型Project Genie刷屏，幕后团队揭秘60秒不是极限，内存是巨大约束",
+      "url": "https://www.infoq.cn/article/NC3jkcH9qgVjb8Q36sl2?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-01-30 18:46:49",
+      "summary": "点击查看原文>",
+      "author": "高允毅"
+    },
+    {
+      "title": "预算有限、技术空白：最刁钻的AI用户，是中小企业老板",
+      "url": "https://www.infoq.cn/article/ZGQys2f6BuEpytzqNLUu?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-01-30 17:46:10",
+      "summary": "点击查看原文>",
+      "author": "杨过"
+    },
+    {
+      "title": "“天下苦CUDA久矣！”KernelCAT率先掀桌，实现国产芯片无痛适配",
+      "url": "https://www.infoq.cn/article/JAmVx35sxdz0ubB7l0Ua?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-01-30 17:46:03",
+      "summary": "点击查看原文>",
+      "author": "InfoQ"
+    },
+    {
+      "title": "效率狂飙数倍后：Coding Agent已然成熟，但开放世界仍是“无人区”",
+      "url": "https://www.infoq.cn/article/0gUgQyIFDDrgJaXlESUg?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-01-30 16:59:12",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "OCR竞争加剧！百度开源新一代SOTA OCR模型，性能超越DeepSeek-OCR2？",
+      "url": "https://www.infoq.cn/article/US8DFAjTKWuEUkRBEFSj?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-01-30 16:34:01",
+      "summary": "点击查看原文>",
+      "author": "褚杏娟"
+    },
+    {
+      "title": "商汤开源SenseNova-MARS，突破多模态搜索推理天花板",
+      "url": "https://www.infoq.cn/article/3x5oE24DW1X5eFYeMGTE?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-01-30 16:08:48",
+      "summary": "点击查看原文>",
+      "author": "木子"
     }
-  ],
-  "statistics": {
-    "github_repos": 116,
-    "hackernews_stories": 29,
-    "rss_articles": 80,
-    "total": 225
-  }
+  ]
 }

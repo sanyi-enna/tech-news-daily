@@ -1,166 +1,198 @@
 {
-  "timestamp": "2026-01-30T01:53:21.212902",
-  "date": "2026-01-30",
+  "timestamp": "2026-01-31T01:48:59.081597",
+  "date": "2026-01-31",
   "data": [
     {
-      "title": "How Sequoia-backed Ethos reached the public market while rivals fell short",
-      "url": "https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/",
+      "title": "a16z partner Kofi Ampadu to leave firm after TxO program pause",
+      "url": "https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/",
       "source": "TechCrunch",
-      "published": "2026-01-30 01:33:13",
-      "summary": "The profitable life-insurance platform was one of the first major tech companies to test the 2026 public markets.",
-      "author": "Marina Temkin"
+      "published": "2026-01-31 01:23:12",
+      "summary": "Kofi Ampadu, the partner at a16z who led the firm's Talent x Opportunity (TxO) fund and program, has left the firm.",
+      "author": "Dominic-Madori Davis"
     },
     {
-      "title": "The iPhone just had its best quarter ever",
-      "url": "https://techcrunch.com/2026/01/29/the-iphone-just-had-its-best-quarter-ever/",
+      "title": "Physical Intelligence, Stripe veteran Lachy Groom’s latest bet, is building Silicon Valley’s buzziest robot brains",
+      "url": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
       "source": "TechCrunch",
-      "published": "2026-01-29 23:57:21",
-      "summary": "Growth in regions like China and India are credited with pushing Apple's phone sales higher than ever.",
+      "published": "2026-01-31 00:09:54",
+      "summary": "If co-founder Lachy Groom has any doubts, he doesn’t show it. He’s working with people who've been working on this problem for decades and who believe the timing is finally right, which is all he need...",
+      "author": "Connie Loizos"
+    },
+    {
+      "title": "OnlyFans considering selling majority stake to Architect Capital",
+      "url": "https://techcrunch.com/2026/01/30/onlyfans-considering-selling-majority-stake-to-architect-capital/",
+      "source": "TechCrunch",
+      "published": "2026-01-30 23:54:09",
+      "summary": "This isn't the first time in recent memory that OnlyFans has been in talks to sell off its business.",
       "author": "Lucas Ropek"
     },
     {
-      "title": "Guys, I don’t think Tim Cook knows how to monetize AI",
-      "url": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
+      "title": "OpenClaw’s AI assistants are now building their own social network",
+      "url": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
       "source": "TechCrunch",
-      "published": "2026-01-29 23:51:17",
-      "summary": "One intrepid Morgan Stanley analyst dared to ask how Apple will make money on its AI investments. The answer will not shock you.",
-      "author": "Amanda Silberling"
+      "published": "2026-01-30 23:36:34",
+      "summary": "The viral personal AI assistant formerly known as Clawdbot has a new shell — again. After briefly rebranding as Moltbot, it has now picked OpenClaw as its new name.",
+      "author": "Anna Heim"
     },
     {
-      "title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
-      "url": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
+      "title": "Informant told FBI that Jeffrey Epstein had a ‘personal hacker’",
+      "url": "https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/",
       "source": "TechCrunch",
-      "published": "2026-01-29 22:47:42",
-      "summary": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
-      "author": "Amanda Silberling, Kirsten Korosec"
+      "published": "2026-01-30 22:04:00",
+      "summary": "The hacker allegedly developed zero-day exploits and offensive cyber tools and sold them to several countries, including an unnamed central African government, the U.K., and the United States.",
+      "author": "Lorenzo Franceschi-Bicchierai"
     },
     {
-      "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
-      "url": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+      "title": "Instagram might soon let you remove yourself from someone’s Close Friends list",
+      "url": "https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/",
       "source": "TechCrunch",
-      "published": "2026-01-29 22:11:09",
-      "summary": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy.",
+      "published": "2026-01-30 21:14:58",
+      "summary": "Since the feature's launch in 2018, users haven't been able to remove themselves from someone else's Close Friends list.",
+      "author": "Aisha Malik"
+    },
+    {
+      "title": "Blue Origin pauses space tourism flights to focus on the moon",
+      "url": "https://techcrunch.com/2026/01/30/blue-origin-pauses-space-tourism-flights-to-focus-on-the-moon/",
+      "source": "TechCrunch",
+      "published": "2026-01-30 21:11:52",
+      "summary": "The company is trying to take advantage of President Donald Trump's desire to return astronauts to the lunar surface by the end of his term.",
+      "author": "Sean O'Kane"
+    },
+    {
+      "title": "SpaceX’s IPO could open the floodgates — and secondaries are booming in the meantime",
+      "url": "https://techcrunch.com/2026/01/30/spacexs-ipo-could-open-the-floodgates-and-secondaries-are-booming-in-the-meantime/",
+      "source": "TechCrunch",
+      "published": "2026-01-30 19:41:25",
+      "summary": "To unpack what SpaceX’s IPO chatter means, how private liquidity works before a debut, and what investors are looking for in today’s pre-IPO giants, we spoke with Greg Martin, managing director at Rai...",
+      "author": "Rebecca Bellan"
+    },
+    {
+      "title": "Uber is literally in the driver’s seat when it comes to AV bets",
+      "url": "https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/",
+      "source": "TechCrunch",
+      "published": "2026-01-30 18:56:17",
+      "summary": "Self-driving truck startup Waabi’s billion-dollar fundraise isn’t just about trucks.   The deal, for $750 million up front plus another $250 million from Uber tied to deployment milestones, marks a ma...",
+      "author": "Theresa Loconsolo"
+    },
+    {
+      "title": "Anthropic brings agentic plug-ins to Cowork",
+      "url": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
+      "source": "TechCrunch",
+      "published": "2026-01-30 18:00:00",
+      "summary": "The company says you can use plug-ins to \"tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets m...",
       "author": "Lucas Ropek"
     },
     {
-      "title": "Medium gives employees Friday off to participate in national strike protesting ICE",
-      "url": "https://techcrunch.com/2026/01/29/medium-gives-employees-friday-off-to-participate-in-national-strike-protesting-ice/",
-      "source": "TechCrunch",
-      "published": "2026-01-29 21:49:15",
-      "summary": "Activists behind the general strike are calling for \"no work, no school, and no shopping\" amid a push to defund ICE, which has escalated raids in U.S. cities, killing several people, including two U.S...",
-      "author": "Sarah Perez"
-    },
-    {
-      "title": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
-      "url": "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/",
-      "source": "TechCrunch",
-      "published": "2026-01-29 21:21:46",
-      "summary": "Microsoft says its own chip leapfrogs those made by other cloud providers like Amazon and Google. But it needs more.",
-      "author": "Julie Bort"
-    },
-    {
-      "title": "Fintech firm Marquis blames hack at firewall provider SonicWall for its data breach",
-      "url": "https://techcrunch.com/2026/01/29/fintech-firm-marquis-blames-hack-at-firewall-provider-sonicwall-for-its-data-breach/",
-      "source": "TechCrunch",
-      "published": "2026-01-29 20:31:43",
-      "summary": "The fintech giant said it plans to \"seek recoupment of any expenses\" from its firewall provider SonicWall after a 2025 data breach exposed customer firewall configurations.",
-      "author": "Zack Whittaker"
-    },
-    {
-      "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
-      "url": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
-      "source": "TechCrunch",
-      "published": "2026-01-29 20:06:56",
-      "summary": "With Microsoft spending many billions on data centers, and rumors that no one is using its AI, CEO Satya Nadella shared some usage numbers.",
-      "author": "Julie Bort"
-    },
-    {
-      "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
-      "url": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
-      "source": "TechCrunch",
-      "published": "2026-01-29 18:58:07",
-      "summary": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.",
-      "author": "Lauren Forristal"
-    },
-    {
-      "title": "It’s a new heyday for gas thanks to data centers",
-      "url": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge",
+      "title": "Jeffrey Epstein was permanently banned from Xbox Live",
+      "url": "https://www.theverge.com/tech/871425/jeffrey-epstein-xbox-live-ban-microsoft-sex-offender",
       "source": "The Verge",
-      "published": "2026-01-29 22:12:49",
-      "summary": "The US is now leading a global surge in new gas power plants being built in large part to satisfy growing energy demand for data centers. And more gas means more planet-heating pollution. Gas-fired po...",
-      "author": "Justine Calma"
+      "published": "2026-01-31 00:34:17",
+      "summary": "Would it surprise you to learn Microsoft booted Jeffrey Epstein from its online gaming platform? As spotted by XboxEra, the latest batch of Epstein's emails shows that in December 2013, he was \"perman...",
+      "author": "Sean Hollister"
     },
     {
-      "title": "Apple just had a record-breaking iPhone quarter",
-      "url": "https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026",
+      "title": "Peloton lays off 11 percent of its staff just a few months after launching its AI hardware",
+      "url": "https://www.theverge.com/gadgets/871422/peloton-layoffs-cost-cutting-2026",
       "source": "The Verge",
-      "published": "2026-01-29 21:54:56",
-      "summary": "Apple says the iPhone had its \"best-ever\" quarter, with revenue hitting more than $85.3 billion over the past few months. The company announced the news as part of its Q1 2026 earnings report, which a...",
-      "author": "Emma Roth"
+      "published": "2026-01-30 23:53:55",
+      "summary": "Peloton said on Friday that it's cutting around 11 percent of its staff, mostly impacting \"engineers working on technology and enterprise-related efforts,\" reports Bloomberg. Last August, Peloton laid...",
+      "author": "Stevie Bonifield"
     },
     {
-      "title": "The weirdest headphones at CES will launch on Kickstarter next month",
-      "url": "https://www.theverge.com/news/870416/tdm-neo-wireless-headphones-bluetooth-speaker-kickstarter-february",
+      "title": "Video game company stock prices dip after Google introduces an AI world-generation tool",
+      "url": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity",
       "source": "The Verge",
-      "published": "2026-01-29 21:03:11",
-      "summary": "There's never a shortage of weird tech debuting at CES every year. A new company called Tomorrow Doesn't Matter, or TDM, announced a peculiar pair of headphones at the show earlier this month with a f...",
-      "author": "Andrew Liszewski"
-    },
-    {
-      "title": "The best foldable phone you can buy",
-      "url": "https://www.theverge.com/tech/635839/best-foldable-phone",
-      "source": "The Verge",
-      "published": "2026-01-29 20:18:26",
-      "summary": "A foldable phone isn’t for the faint of heart. They’re generally heavier, pricier, and have less capable cameras than a standard slab-style phone. They’re also still not as durable as regular smartpho...",
-      "author": "Allison Johnson"
-    },
-    {
-      "title": "Elon Musk might merge SpaceX with Tesla or xAI",
-      "url": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger",
-      "source": "The Verge",
-      "published": "2026-01-29 19:47:58",
-      "summary": "Elon Musk-led SpaceX may merge with another company helmed by Elon Musk. Reuters initially reported Thursday that SpaceX and xAI are \"in discussions to merge\" ahead of SpaceX's IPO that's planned for ...",
+      "published": "2026-01-30 22:45:16",
+      "summary": "The stock prices of some major video game companies, including Take-Two Interactive, Roblox, and Unity, had notable declines on Friday, just a day after Google announced its Project Genie tool that le...",
       "author": "Jay Peters"
     },
     {
-      "title": "Apple’s second biggest acquisition ever is an AI company that listens to ‘silent speech’",
-      "url": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech",
+      "title": "Sonos’ Super Bowl sale knocks hundreds off its audio gear",
+      "url": "https://www.theverge.com/gadgets/871054/sonos-super-bowl-deal-sale-era-beam-arc-ultra-sub",
       "source": "The Verge",
-      "published": "2026-01-29 19:22:27",
-      "summary": "Apple's biggest acquisition ever is still its $3 billion Beats buy in 2014, but now the second biggest deal is bringing in Q.ai, a four-year-old AI audio startup. Apple did not disclose the terms, but...",
-      "author": "Richard Lawler"
-    },
-    {
-      "title": "Obsbot’s new gimbal webcam doesn’t justify its $350 price",
-      "url": "https://www.theverge.com/tech/867950/obsbot-tiny-3-lite-hands-on-impressions",
-      "source": "The Verge",
-      "published": "2026-01-29 19:14:27",
-      "summary": "Webcam company Obsbot recently launched two new gimbal-equipped webcams, the $349 Tiny 3 and the $199 Tiny 3 Lite. It claims that the priciest model is the smallest pan, tilt, zoom (PTZ) 4K webcam eve...",
+      "published": "2026-01-30 20:58:39",
+      "summary": "Sonos isn’t exactly synonymous with the Super Bowl, although the brand discounts its gear every year around this time like clockwork. It’s knocking 20 percent off many of its marquee products, includi...",
       "author": "Cameron Faulkner"
     },
     {
-      "title": "Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi",
-      "url": "https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood",
+      "title": "Fitbit users now have until May to migrate to a Google account",
+      "url": "https://www.theverge.com/gadgets/871218/fitbit-account-migration-google-deadline-may-2026",
       "source": "The Verge",
-      "published": "2026-01-29 18:42:54",
-      "summary": "Prediction markets will let you bet on just about anything, from how many tweets Elon Musk will post this week to the next president of the United States, with predictions sometimes showing shockingly...",
-      "author": "Verge Staff"
+      "published": "2026-01-30 20:25:51",
+      "summary": "Fitbit users who are holding out on moving their data over to a Google account now have until May 19th, 2026 to make the switch. The previous deadline was just days away on February 2nd, but that date...",
+      "author": "Stevie Bonifield"
     },
     {
-      "title": "Spotify&#8217;s new group chats share music with everyone in your circle",
-      "url": "https://www.theverge.com/news/870288/spotify-group-chats-direct-messaging-expansion",
+      "title": "There’s a social network for AI agents, and it’s getting weird",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw",
       "source": "The Verge",
-      "published": "2026-01-29 17:36:13",
-      "summary": "Spotify is expanding its in-app messaging feature with group chats. Now you can add up to 10 friends and family members to your discussion about your new favorite song, podcast, or audiobook, as repor...",
-      "author": "Emma Roth"
+      "published": "2026-01-30 19:11:35",
+      "summary": "Yes, you read that right. \"Moltbook\" is a social network of sorts for AI agents, particularly ones offered by OpenClaw (a viral AI assistant project that was formerly known as Moltbot, and before that...",
+      "author": "Hayden Field"
     },
     {
-      "title": "Half of developers think gen AI is bad for the gaming industry",
-      "url": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
+      "title": "We finally heard from Trump Mobile… and they immediately ghosted us",
+      "url": "https://www.theverge.com/tech/870934/trump-mobile-executive-team-don-hendrickson",
       "source": "The Verge",
-      "published": "2026-01-29 17:00:00",
-      "summary": "While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recen...",
-      "author": "Andrew Webster"
+      "published": "2026-01-30 19:06:35",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. As usual, we're still waiting for a response. In the ...",
+      "author": "Dominic Preston"
+    },
+    {
+      "title": "Dyson’s powerful 360 Vis Nav robot vacuum is nearly 75 percent off today",
+      "url": "https://www.theverge.com/gadgets/870256/dyson-360-vis-nav-robot-vacuum-lego-lotr-balrog-deal-sale",
+      "source": "The Verge",
+      "published": "2026-01-30 18:48:52",
+      "summary": "In case you missed it, we recently overhauled our guides to the best budget robot vacuums and the best mopping vacs, both of which feature a slate of new picks from Roborock, Narwal, Dreame, and other...",
+      "author": "Brandon Widder"
+    },
+    {
+      "title": "Tim Cook is destroying his own legacy",
+      "url": "https://www.theverge.com/podcast/870717/tim-cook-melania-minneapolis-tiktok-vergecast",
+      "source": "The Verge",
+      "published": "2026-01-30 18:09:24",
+      "summary": "What responsibility do you have to speak up about bad things happening in the world? Does that responsibility change when speaking up might affect your business? What about if you're a sports creator,...",
+      "author": "David Pierce"
+    },
+    {
+      "title": "ICE invades Minnesota and Minnesotans fight back",
+      "url": "https://www.theverge.com/policy/870315/ice-invades-minnesota-and-minnesotans-fight-back",
+      "source": "The Verge",
+      "published": "2026-01-30 17:32:40",
+      "summary": "The Trump administration has flooded Minneapolis and other parts of Minnesota with federal agents as part of its immigration crackdown, Operation Metro Surge — detaining children, intimidating protest...",
+      "author": "Adi Robertson"
+    },
+    {
+      "title": "How far does $5,000 go when you want an electric car?",
+      "url": "https://arstechnica.com/cars/2026/01/how-far-does-5000-go-when-you-want-an-electric-car/",
+      "source": "Ars Technica",
+      "published": "2026-01-30 15:55:42",
+      "summary": "You won't be going on road trips, but a very cheap electric runabout is possible.",
+      "author": "Jonathan M. Gitlin"
+    },
+    {
+      "title": "NASA faces a crucial choice on a Mars spacecraft—and it must decide soon",
+      "url": "https://arstechnica.com/space/2026/01/nasa-faces-a-crucial-choice-on-a-mars-spacecraft-and-it-must-decide-soon/",
+      "source": "Ars Technica",
+      "published": "2026-01-30 15:31:43",
+      "summary": "\"We think that’s a really important mission, and something that we can do.\"",
+      "author": "Eric Berger"
+    },
+    {
+      "title": "Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?",
+      "url": "https://arstechnica.com/space/2026/01/rocket-report-how-a-5-ton-satellite-fell-off-a-booster-will-spacex-and-xai-merge/",
+      "source": "Ars Technica",
+      "published": "2026-01-30 12:00:41",
+      "summary": "\"We’re seeing remarkable growth year after year.\"",
+      "author": "Eric Berger"
+    },
+    {
+      "title": "Inside Nvidia's 10-year effort to make the Shield TV the most updated Android device ever",
+      "url": "https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/",
+      "source": "Ars Technica",
+      "published": "2026-01-30 12:00:35",
+      "summary": "\"Selfishly a little bit, we built Shield for ourselves.\"",
+      "author": "Ryan Whitwam"
     },
     {
       "title": "Having that high-deductible health plan might kill you, literally",
@@ -211,116 +243,108 @@
       "author": "Jon Brodkin"
     },
     {
-      "title": "She'll mess with Texas: Nurse keeps mailing abortion pills, despite Paxton lawsuit",
-      "url": "https://arstechnica.com/tech-policy/2026/01/i-dont-fear-ken-paxton-nurse-vows-to-keep-shipping-abortion-pills-to-texas/",
-      "source": "Ars Technica",
-      "published": "2026-01-29 19:19:11",
-      "summary": "Texas sues Delaware nurse practitioner shipping out hundreds of abortion pills each month.",
-      "author": "Ashley Belanger"
-    },
-    {
-      "title": "What ice fishing can teach us about making foraging decisions",
-      "url": "https://arstechnica.com/science/2026/01/what-ice-fishing-can-teach-us-about-making-foraging-decisions/",
-      "source": "Ars Technica",
-      "published": "2026-01-29 19:00:41",
-      "summary": "Social density increases likelihood of sticking with a location. Environmental factors had little influence.",
-      "author": "Jennifer Ouellette"
-    },
-    {
-      "title": "County pays $600,000 to pentesters it arrested for assessing courthouse security",
-      "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
-      "source": "Ars Technica",
-      "published": "2026-01-29 18:30:52",
-      "summary": "Settlement comes more than 6 years after Gary DeMercurio and Justin Wynn's ordeal began.",
-      "author": "Dan Goodin"
-    },
-    {
-      "title": "New OpenAI tool renews fears that “AI slop” will overwhelm scientific research",
-      "url": "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/",
-      "source": "Ars Technica",
-      "published": "2026-01-29 17:51:49",
-      "summary": "New \"Prism\" workspace launches just as studies show AI-assisted papers are flooding journals with diminished quality.",
-      "author": "Benj Edwards"
-    },
-    {
-      "title": "We Found Two Theaters With Sold-Out ‘Melania’ Opening Day Screenings",
-      "url": "https://www.wired.com/story/we-found-2-theaters-with-sold-out-melania-opening-day-screenings/",
+      "title": "Right-Wing Gun Enthusiasts and Extremists Are Working Overtime to Justify Alex Pretti’s Killing",
+      "url": "https://www.wired.com/story/right-wing-gun-enthusiasts-and-extremists-are-working-overtime-to-justify-alex-prettis-killing/",
       "source": "Wired",
-      "published": "2026-01-29 23:27:49",
-      "summary": "A WIRED analysis of nearly 1,400 Friday showtimes of Melania found only two with no tickets available. Both are before 3 pm.",
-      "author": "Maddy Varner"
+      "published": "2026-01-30 22:49:24",
+      "summary": "Donald Trump has appeared to undermine Second Amendment rights in statements about Alex Pretti’s killing. Many in the firearms community are going along with it.",
+      "author": "David Gilbert"
     },
     {
-      "title": "‘Uncanny Valley’: Minneapolis Misinformation, TikTok’s New Owners, and Moltbot Hype",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-ice-minneapolis-tiktok-moltbot/",
+      "title": "I Let Google’s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn’t Quite Click",
+      "url": "https://www.wired.com/story/google-chrome-auto-browse-hands-on/",
       "source": "Wired",
-      "published": "2026-01-29 22:19:59",
-      "summary": "On this episode of Uncanny Valley, we dive into the news that's held our attention this week: ICE activity as it's been unfolding in Minnesota.",
-      "author": "Brian Barrett, Zoë Schiffer, Tim Marchman"
+      "published": "2026-01-30 20:41:49",
+      "summary": "Auto Browse can shop for clothes, plan a trip, and buy tickets for you. Or at least, that’s the idea.",
+      "author": "Reece Rogers"
     },
     {
-      "title": "The 45 Best Movies on HBO Max Right Now (February 2026)",
-      "url": "https://www.wired.com/story/best-movies-hbo-max-right-now/",
+      "title": "3 Great Heated Blanket Deals on My Favorite Affordable Models",
+      "url": "https://www.wired.com/story/heated-blanket-deals-january-2026/",
       "source": "Wired",
-      "published": "2026-01-29 20:00:00",
-      "summary": "One Battle After Another, The Smashing Machine, and Sinners are just a few of the movies you should be watching on HBO Max this month.",
-      "author": "Jennifer M. Wood, WIRED Staff"
+      "published": "2026-01-30 19:41:36",
+      "summary": "Some of our favorite heated blankets are on sale (and might even arrive in time for you to use this weekend).",
+      "author": "Louryn Strampe"
     },
     {
-      "title": "AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment",
-      "url": "https://www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/",
+      "title": "After Minneapolis, Tech CEOs Are Struggling to Stay Silent",
+      "url": "https://www.wired.com/story/after-minneapolis-tech-ceos-are-struggling-to-stay-silent/",
       "source": "Wired",
-      "published": "2026-01-29 19:07:14",
-      "summary": "Across Instagram and Facebook, AI-generated videos show people of color putting ICE agents in their place. Are they cathartic or just adding to a stew of misinformation?",
-      "author": "Jason Parham"
+      "published": "2026-01-30 16:00:00",
+      "summary": "Silicon Valley’s power brokers spent the past year currying favor with President Trump. Two deadly shootings in Minneapolis are now exposing the price of that bargain.",
+      "author": "Steven Levy"
     },
     {
-      "title": "A Yann LeCun–Linked Startup Charts a New Path to AGI",
-      "url": "https://www.wired.com/story/logical-intelligence-yann-lecun-startup-chart-new-course-agi/",
+      "title": "6 Best Beard Trimmers (2026): Full Beards, Hair, Stubble",
+      "url": "https://www.wired.com/gallery/best-beard-trimmers/",
       "source": "Wired",
-      "published": "2026-01-29 19:00:00",
-      "summary": "As the world’s largest companies pour hundreds of billions of dollars into large language models, San Francisco-based Logical Intelligence is trying something different in pursuit of AI that can mimic...",
-      "author": "Joel Khalili"
+      "published": "2026-01-30 14:30:00",
+      "summary": "WIRED has been testing beard trimmers for six years. Our favorite is compact, reliable, ridiculously adjustable, and offers a five-year warranty.",
+      "author": "Matthew Korfhage"
     },
     {
-      "title": "Our Favorite Open Earbuds Are $60 Off",
-      "url": "https://www.wired.com/story/anker-soundcore-aeroclip-deal-126/",
+      "title": "The Best Soundbars We’ve Tested: Sonos, Sony, Bose, and More",
+      "url": "https://www.wired.com/gallery/best-soundbars/",
       "source": "Wired",
-      "published": "2026-01-29 18:44:11",
-      "summary": "The Anker Soundcore Aeroclip earbuds boast great sound without cutting you off from the outside world.",
-      "author": "Brad Bourque"
+      "published": "2026-01-30 14:04:00",
+      "summary": "Every television deserves a row of speakers to call its own. These are our favorite soundbars from Samsung, Yamaha, Bose, and more.",
+      "author": "Parker Hall, Ryan Waniata"
     },
     {
-      "title": "ICE Pretends It’s a Military Force. Its Tactics Would Get Real Soldiers Killed",
-      "url": "https://www.wired.com/story/ice-pretends-its-a-military-force-its-tactics-would-get-real-soldiers-killed/",
+      "title": "‘Infinite Jest’ Is Back. Maybe Litbros Should Be, Too",
+      "url": "https://www.wired.com/story/infinite-jest-is-back-if-only-litbros-were-too/",
       "source": "Wired",
-      "published": "2026-01-29 18:04:13",
-      "summary": "WIRED asked an active military officer to break down immigration enforcement actions in Minneapolis and elsewhere.",
-      "author": "John Publius"
+      "published": "2026-01-30 13:47:14",
+      "summary": "The notoriously challenging book is being rereleased for its 30th anniversary. Its fandom is annoying, sure—but at least they read.",
+      "author": "John Semley"
     },
     {
-      "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account",
-      "url": "https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/",
+      "title": "Samsung S90F QD-OLED TV Review: Refined From Any Angle",
+      "url": "https://www.wired.com/review/samsung-s90f/",
       "source": "Wired",
-      "published": "2026-01-29 17:00:00",
-      "summary": "AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company’s stuffed animals.",
-      "author": "Andy Greenberg"
+      "published": "2026-01-30 13:00:00",
+      "summary": "With impeccable accuracy and poise, Samsung’s midrange OLED dazzles on the little things.",
+      "author": "Ryan Waniata"
     },
     {
-      "title": "Nvidia’s Campaign to Sell AI Chips to China Finally Pays Off",
-      "url": "https://www.wired.com/story/made-in-china-china-nvidia-h200-beijing-approval/",
+      "title": "Keychron Q16 HE 8K Review: A Ceramic Disappointment",
+      "url": "https://www.wired.com/review/keychron-q16-he-8k/",
       "source": "Wired",
-      "published": "2026-01-29 16:10:53",
-      "summary": "Beijing reportedly approved the sale of hundreds of thousands of Nvidia H200 chips to Chinese AI companies—the culmination of a dramatic shift in US tech policy.",
-      "author": "Louise Matsakis"
+      "published": "2026-01-30 12:30:00",
+      "summary": "Great keyboard technology inside a disappointing, conceptually flawed ceramic shell.",
+      "author": "Henri Robbins"
     },
     {
-      "title": "Trump Admin's Plans for $500 Million USIP Building May Violate Court Order, Say Former Workers",
-      "url": "https://www.wired.com/story/trump-admins-plans-for-dollar500-million-usip-building-may-violate-court-order-say-former-workers/",
+      "title": "Viome Full Body Intelligence Test Review: Little Clarity, Pricey Supplements",
+      "url": "https://www.wired.com/review/viome-full-body-intelligence-test/",
       "source": "Wired",
-      "published": "2026-01-29 14:39:10",
-      "summary": "The State Department is poised to take over a building DOGE seized from the US Institute of Peace, former staffers claim—possibly for Donald Trump’s “Board of Peace.”",
-      "author": "Vittoria Elliott"
+      "published": "2026-01-30 12:00:00",
+      "summary": "Virtually every aspect of your health can be traced back to your microbiome. But some tests are better than others.",
+      "author": "Brent Rose"
+    },
+    {
+      "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
+      "url": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-30 16:32:31",
+      "summary": "Civitai—an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz—is letting users buy custom instruction files for generating celebrity...",
+      "author": "James O'Donnell"
+    },
+    {
+      "title": "The Download: US immigration agencies’ AI videos, and inside the Vitalism movement",
+      "url": "https://www.technologyreview.com/2026/01/30/1132022/the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-30 13:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. DHS is using Google and Adobe AI to make videos The news: The ...",
+      "author": "Rhiannon Williams"
+    },
+    {
+      "title": "How the sometimes-weird world of lifespan extension is gaining influence",
+      "url": "https://www.technologyreview.com/2026/01/30/1131933/weird-world-lifespan-extension-gaining-influence-oneill-arpa-h/",
+      "source": "MIT Technology Review",
+      "published": "2026-01-30 10:00:00",
+      "summary": "For the last couple of years, I’ve been following the progress of a group of individuals who believe death is humanity’s “core problem.” Put simply, they say death is wrong—for everyone. They’ve even ...",
+      "author": "Jessica Hamzelou"
     },
     {
       "title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
@@ -379,35 +403,51 @@
       "author": "Miranda Bogen, Ruchika Joshi"
     },
     {
-      "title": "Rules fail at the prompt, succeed at the boundary",
-      "url": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
-      "source": "MIT Technology Review",
-      "published": "2026-01-28 14:00:00",
-      "summary": "From the Gemini Calendar prompt-injection attack of 2026 to the September 2025 state-sponsored hack using Anthropic’s Claude code as an automated intrusion engine, the coercion of human-in-the-loop ag...",
-      "author": "Jessica Hammond"
+      "title": "9点1氪｜特朗普宣布下任美联储主席提名人选；广东连续8年成为第一生育大省；“黑白颠周媛”被立案调查",
+      "url": "https://36kr.com/p/3662644247323264?f=rss",
+      "source": "36氪",
+      "published": "2026-01-31 01:17:50",
+      "summary": "今日热点导览\n  \n   中国最新富豪榜出炉\n   金价未来几年有望涨到8000美元至8500美元\n   iPhone 18 Pro或直连星链\n   监管通报“某基金产品单日吸金超百亿”事件\n   特朗普起诉美国财政部和国税局，索赔至少100亿美元\n  \n  TOP3大新闻\n  特朗普提名美联储新主席人选\n  当地时间1月30日上午，美国总统特朗普提名美国联邦储备委员会前理事凯文·沃什出任下一任美...",
+      "author": "Unknown"
     },
     {
-      "title": "The Download: A bid to treat blindness, and bridging the internet divide",
-      "url": "https://www.technologyreview.com/2026/01/28/1131830/the-download-a-bid-to-treat-blindness-and-bridging-the-internet-divide/",
-      "source": "MIT Technology Review",
-      "published": "2026-01-28 13:10:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The first human test of a rejuvenation method will begin “shor...",
-      "author": "Rhiannon Williams"
+      "title": "中建信和在北京栽了",
+      "url": "https://36kr.com/p/3661725998523267?f=rss",
+      "source": "36氪",
+      "published": "2026-01-30 10:56:05",
+      "summary": "过去两年，北京市场上有约三分之一的地被中建系拿走了。\n  2024年、2025年，中建系（含中海、中建智地、中建壹品、中建信和、中建玖合、中建方程）累计拿地20宗，总金额1021.64亿元，占到两年市场总金额2981.62亿的33.8%，大有瓜分北京之势。\n  拿地最猛的要数中建一局旗下的中建智地和中建三局旗下的中建壹品，分别拍下7宗、5宗宅地，这两家合计拿地超过了520亿元。\n  不过，从去年开...",
+      "author": "Unknown"
     },
     {
-      "title": "The first human test of a rejuvenation method will begin “shortly”",
-      "url": "https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/",
-      "source": "MIT Technology Review",
-      "published": "2026-01-27 18:08:19",
-      "summary": "When Elon Musk was at Davos last week, an interviewer asked him if he thought aging could be reversed. Musk said he hasn’t put much time into the problem but suspects it is “very solvable” and that wh...",
-      "author": "Antonio Regalado"
+      "title": "氪星晚报｜苹果收购人工智能初创公司；诺和诺德中国区总裁将离职；SpaceX发布空间态势感知系统Stargaze",
+      "url": "https://36kr.com/p/3661493683643272?f=rss",
+      "source": "36氪",
+      "published": "2026-01-30 09:52:37",
+      "summary": "大公司：\n  大唐发电：预计2025年归母净利润约68亿元-78亿元，同比增加约51%-73%\n  36氪获悉，大唐发电发布2025年业绩预告。报告显示，预计2025年度实现归属于母公司所有者的净利润约为68亿元（人民币，下同）至78亿元，同比增加约51%到73%。预计2025年度实现归属于母公司所有者扣除非经常性损益事项的净利润约为72亿元到82亿元，同比增加约60%到82%。\n  洽洽食品：预...",
+      "author": "Unknown"
+    },
+    {
+      "title": "阿里系前高管出任机器人租赁平台“擎天租”总裁、首席战略官，将建设全国合伙人网络丨智能涌现独家",
+      "url": "https://36kr.com/p/3661687880147849?f=rss",
+      "source": "36氪",
+      "published": "2026-01-30 09:11:57",
+      "summary": "文｜富充\n  编辑｜苏建勋\n  具身智能产业的热度蔓延至机器人租赁市场，让互联网老兵们也“坐不住”了。\n  《智能涌现》独家获悉，阿里“中供铁军”首任校长、阿里B2B销售培训体系参与建立者李立恒，与另一位阿里系“三板斧”负责管理培训业务的王明峰（天相）将入职机器人租赁平台擎天租，分别出任总裁、首席战略官。\n  擎天租平台发布于2025年12月，并于2026年1月15日披露种子轮融资。该轮次由高瓴创...",
+      "author": "Unknown"
+    },
+    {
+      "title": "求购星河动力公司老股份额；求购天兵科技老股份额｜资情留言板第178期",
+      "url": "https://36kr.com/p/3661668026737287?f=rss",
+      "source": "36氪",
+      "published": "2026-01-30 08:42:00",
+      "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。\n  本文是这个栏目的第178期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.co...",
+      "author": "Unknown"
     },
     {
       "title": "一家AI玩具公司获数千万元融资，核心产品销量翻五倍｜硬氪首发",
       "url": "https://36kr.com/p/3654915542130816?f=rss",
       "source": "36氪",
       "published": "2026-01-30 01:30:00",
-      "summary": "作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，AI玩具厂商上海喜梨信息科技有限公司（以下简称“FoloToy”）近日完成数千万元新一轮融资。指数资本担任公司独家财务顾问。我们总结了本轮融资信息和该公司几大亮点：\n  融资金额及投资机构\n  融资轮次：Pre-A轮/ Pre-A+轮\n  融资规模：数千万元\n  投资方：深创投、南山战新投、老股东火火兔\n  资金用途：将重点用于加速技术研发与产品端持续迭...",
+      "summary": "作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，AI玩具厂商上海喜梨信息科技���限公司（以下简称“FoloToy”）近日完成数千万元新一轮融资。指数资本担任公司独家财务顾问。我们总结了本轮融资信息和该公司几大亮点：\n  融资金额及投资机构\n  融资轮次：Pre-A轮/ Pre-A+轮\n  融资规模：数千万元\n  投资方：深创投、南山战新投、老股东火火兔\n  资金用途：将重点用于加速技术研发与产品端持...",
       "author": "Unknown"
     },
     {
@@ -443,44 +483,36 @@
       "author": "Unknown"
     },
     {
-      "title": "氪星晚报｜马斯克：人形机器人领域最大竞争对手将来自中国；黄仁勋：英伟达正与英特尔合作开发一款定制的X86处理器",
-      "url": "https://36kr.com/p/3660284714492808?f=rss",
-      "source": "36氪",
-      "published": "2026-01-29 09:16:43",
-      "summary": "大公司：\n  吉利汽车旗下公司在沈阳成立新公司，注册资本1亿元\n  36氪获悉，爱企查App显示，近日，沈阳吉利汽车有限公司成立，法定代表人为王全心，注册资本1亿元人民币，经营范围包括汽车零部件及配件制造、汽车零配件零售、汽车零部件研发、信息技术咨询服务等。股东信息显示，该公司由吉利汽车旗下浙江吉润汽车有限公司全资持股。\n  埃夫特机器人：对公司部分工业机器人整机产品售价进行优化调整，调价幅度区间...",
-      "author": "Unknown"
+      "title": "别只练力量和心肺，人生下半场拼的是肌肉爆发力",
+      "url": "https://sspai.com/prime/story/a-guide-to-muscle-explosive-power",
+      "source": "少数派",
+      "published": "2026-01-30 10:16:30",
+      "summary": "今天这篇文章，就来聊聊，肌肉爆发力究竟是什么？它为何对长寿如此重要？以及普通人该如何科学训练爆发力？查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "author": "举铁的马里奥"
     },
     {
-      "title": "豆包手机卷土重来：从“被围剿”，到“反围剿”丨智能涌现独家",
-      "url": "https://36kr.com/p/3660039929160576?f=rss",
-      "source": "36氪",
-      "published": "2026-01-29 05:06:06",
-      "summary": "文｜邱晓芬\n  编辑｜苏建勋\n  1月26日，在腾讯公司年会上，马化腾罕见评价了豆包手机——他直言腾讯反对将用户的手机屏幕传到云端，因为这“极其不安全、不负责任”。\n  对此评价，豆包手机方面快速做出回应，称将严格遵守用户授权，云端处理遵循“不存储、不训练原则”。\n  马化腾的评价，也揭开了豆包手机此前的隐痛。2025年12月，字节旗下豆包手机在发布仅一天后，便经历了一场严重“围剿”——其AI A...",
-      "author": "Unknown"
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "url": "https://sspai.com/post/105907",
+      "source": "少数派",
+      "published": "2026-01-30 10:04:47",
+      "summary": "📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》首支预告1月30日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了首支预告，定档7月开始播出。木村翔马执导，圆城塔编剧， ...查看全文",
+      "author": "少数派编辑部"
     },
     {
-      "title": "中国区CEO潘励驰：保时捷不会让消费者当小白鼠｜36氪专访",
-      "url": "https://36kr.com/p/3657372223103109?f=rss",
-      "source": "36氪",
-      "published": "2026-01-29 05:03:01",
-      "summary": "外资豪华品牌在华销量连年下降，转型与改变已无法避免。\n  2025年，保时捷在中国市场共卖出42938辆，同比下降幅度达到26%，保时捷在华已连续4年出现下滑。近日，保时捷中国CEO潘励驰与36氪等媒体展开交流，不仅对保时捷中国的销量与反击措施作出详细说明，更是回应了保时捷中国智驾供应商、国产车型与保时捷的设计风云等热门话题。\n  对于保时捷销量的变化，潘励驰表示，结构性转变通常总是始于客户需求的...",
-      "author": "Unknown"
+      "title": "停更但好用的 DriveDroid：把 Android 手机变成 USB 启动盘",
+      "url": "https://sspai.com/post/104564",
+      "source": "少数派",
+      "published": "2026-01-30 07:00:00",
+      "summary": "编注：本文为少数派12月主题征稿活动中「可惜！那些好用但停更了的App」主题入选投稿之一，我们将在日后开展更多不同领域和话题的征稿活动，敬请留意。前言作为一个将ArchLinux作为主力系统使用多年的 ...查看全文",
+      "author": "so1ar"
     },
     {
-      "title": "从海外代工到越南建厂，再到集群式海外投资，佩蒂的33年全球化之路｜出海踏浪者",
-      "url": "https://36kr.com/p/3659004604965512?f=rss",
-      "source": "36氪",
-      "published": "2026-01-29 02:08:46",
-      "summary": "12月底，柬埔寨正值一年中最凉爽的时节，但气温仍有30℃上下，空气里弥漫着温润的湿意。波哥山脚下的柬埔寨博格经济特区工业园区里，工人们正将宠物咬胶打包装车，运往65公里外的西哈努克港。几天后，这些产品便会出现在美国各大商超的宠物货架上。\n  这里是爵味食品有限公司-佩蒂动物营养科技股份有限公司柬埔寨子公司（以下简称“佩蒂”）在境外规模最大的生产基地之一。而像这样的海外生产基地，佩蒂还在越南和新西兰...",
-      "author": "Unknown"
-    },
-    {
-      "title": "新希望联合非夕科技孵化具身智能公司，天使轮获数千万元融资",
-      "url": "https://36kr.com/p/3659839708259207?f=rss",
-      "source": "36氪",
-      "published": "2026-01-29 01:43:35",
-      "summary": " \n  作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，上海希夕智能科技有限责任公司（SUNSEED，以下简称“希夕智能”）近日完成数千万元天使轮融资。我们总结了本轮融资信息和该公司几大亮点：\n  \n   \n  融资金额及投资机构\n  融资轮次：天使轮\n  融资金额：数千万元\n  投资机构：宁波北仑商贸物流投资集团领投，荣成荣鑫基金和盛景嘉成跟投\n  资金用途：研发投入、产品迭代与业务推广\n...",
-      "author": "Unknown"
+      "title": "你真的是记性不好吗？关于记忆和遗忘的常见误区",
+      "url": "https://sspai.com/post/105677",
+      "source": "少数派",
+      "published": "2026-01-30 03:13:23",
+      "summary": "虽然我们每天都把记忆、遗忘这些词挂在嘴边，但记忆实际上不是一种单一的能力，而遗忘也不是一件全然的坏事。查看全文",
+      "author": "知道分子吴先先"
     },
     {
       "title": "派早报：小米发布 REDMI Turbo 5 系列手机等",
@@ -531,116 +563,84 @@
       "author": "waychane"
     },
     {
-      "title": "跨越肠胃镜心理障碍：记一次胶囊胃镜体验",
-      "url": "https://sspai.com/post/105554",
-      "source": "少数派",
-      "published": "2026-01-28 09:30:26",
-      "summary": "克服不了做胃镜的恐惧也能做胃镜？查看全文",
-      "author": "Aad钙"
-    },
-    {
-      "title": "Matrix 圆桌 | 可惜！聊聊那些好用但停更的 App",
-      "url": "https://sspai.com/post/105134",
-      "source": "少数派",
-      "published": "2026-01-28 07:00:00",
-      "summary": "如果要推荐一款曾惊艳过你、却遗憾停更的应用，哪些名字会浮现在你的脑海？查看全文",
-      "author": "Matrix机器人"
-    },
-    {
-      "title": "少数派新年礼遇季：为你精选 2025 值得入手的热销好物",
-      "url": "https://sspai.com/post/105818",
-      "source": "少数派",
-      "published": "2026-01-28 03:30:00",
-      "summary": "更多直播专属礼遇，1 月 29 日（周四）晚 19 点 30 分欢迎前来直播间选购。查看全文",
-      "author": "什么陈"
-    },
-    {
-      "title": "社区速递 127 | 派友的 12 月剁手清单、8 年不换电池的温湿度计",
-      "url": "https://sspai.com/post/105807",
-      "source": "少数派",
-      "published": "2026-01-27 08:48:20",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🖊️季度创作 ...查看全文",
-      "author": "Matrix机器人"
-    },
-    {
-      "title": "一项 20 年前的 Oracle 排序算法专利到期，开源数据库集体受益",
-      "url": "https://www.infoq.cn/article/cMYZm5ujJag5Y2SPxTG2?utm_source=rss&utm_medium=article",
+      "title": "Swift跨平台框架Skip现已完全开源",
+      "url": "https://www.infoq.cn/article/TflNBc7EvNHoKCyDEdj3?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-01-30 08:00:00",
+      "published": "2026-01-31 09:00:00",
       "summary": "点击查看原文>",
-      "author": "Renato Losio"
+      "author": "Sergio De Simone"
     },
     {
-      "title": "世界模型混战，蚂蚁炸出开源牌",
-      "url": "https://www.infoq.cn/article/hmKcZ2hdjDk3SspgikfV?utm_source=rss&utm_medium=article",
+      "title": "摩擦解决之道：改变关键要素",
+      "url": "https://www.infoq.cn/article/ah0Xq4eGpFGrOEJOdfNX?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-01-29 19:59:46",
+      "published": "2026-01-31 08:00:00",
       "summary": "点击查看原文>",
-      "author": "陈姚戈"
+      "author": "作者：Cat Morris, Diana Montalion"
     },
     {
-      "title": "如何大规模构建、部署和管理智能体",
-      "url": "https://www.infoq.cn/article/WYSZ0iMoqpfYfVDiGKdu?utm_source=rss&utm_medium=article",
+      "title": "从三大支柱出发：Snowflake 平台的一次系统级升级",
+      "url": "https://www.infoq.cn/article/4BOafAxF30X1K8AQd8qM?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-01-29 18:26:09",
+      "published": "2026-01-30 19:44:26",
       "summary": "点击查看原文>",
       "author": "王玮"
     },
     {
-      "title": "不要再纠结 LLM 准确率了：从“回答对不对”到“系统是否值得信任”",
-      "url": "https://www.infoq.cn/article/TZrHpojJxuCmLCP0uRSO?utm_source=rss&utm_medium=article",
+      "title": "如何用 dbt MCP 服务器和 Snowflake 构建智能体工作流",
+      "url": "https://www.infoq.cn/article/lRtX3TRRZGq0dr6tl66q?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-01-29 17:02:56",
+      "published": "2026-01-30 19:21:33",
       "summary": "点击查看原文>",
       "author": "王玮"
     },
     {
-      "title": "Aspire 13.1带来了MCP集成、CLI增强和Azure部署更新",
-      "url": "https://www.infoq.cn/article/7yEzcHRZxLIIVR4zMV4k?utm_source=rss&utm_medium=article",
+      "title": "劈柴哥和哈萨比斯亲自站台！谷歌世界模型Project Genie刷屏，幕后团队揭秘60秒不是极限，内存是巨大约束",
+      "url": "https://www.infoq.cn/article/NC3jkcH9qgVjb8Q36sl2?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-01-29 17:00:00",
+      "published": "2026-01-30 18:46:49",
       "summary": "点击查看原文>",
-      "author": "作者：Almir Vuk"
+      "author": "高允毅"
     },
     {
-      "title": "LangChain 创始人警告：2026 成为“Agent 工程”分水岭，传统软件公司的生存考验开始了",
-      "url": "https://www.infoq.cn/article/2XfMOshHpdVVKjB2hxms?utm_source=rss&utm_medium=article",
+      "title": "预算有限、技术空白：最刁钻的AI用户，是中小企业老板",
+      "url": "https://www.infoq.cn/article/ZGQys2f6BuEpytzqNLUu?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-01-29 16:18:49",
+      "published": "2026-01-30 17:46:10",
       "summary": "点击查看原文>",
-      "author": "Tina"
+      "author": "杨过"
     },
     {
-      "title": "Linus 之后的 Linux？内核社区终于写下“接班预案”",
-      "url": "https://www.infoq.cn/article/rxKQhGxLH5lYkeo51kCZ?utm_source=rss&utm_medium=article",
+      "title": "“天下苦CUDA久矣！”KernelCAT率先掀桌，实现国产芯片无痛适配",
+      "url": "https://www.infoq.cn/article/JAmVx35sxdz0ubB7l0Ua?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-01-29 16:12:34",
+      "published": "2026-01-30 17:46:03",
       "summary": "点击查看原文>",
-      "author": "Tina"
+      "author": "InfoQ"
     },
     {
-      "title": "不跟英伟达走老路，这家GPU公司的技术架构藏着哪些关键解？",
-      "url": "https://www.infoq.cn/article/hR5WX4alMiNZumPR5ukC?utm_source=rss&utm_medium=article",
+      "title": "效率狂飙数倍后：Coding Agent已然成熟，但开放世界仍是“无人区”",
+      "url": "https://www.infoq.cn/article/0gUgQyIFDDrgJaXlESUg?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-01-29 14:54:56",
+      "published": "2026-01-30 16:59:12",
       "summary": "点击查看原文>",
-      "author": "凌敏"
+      "author": "李冬梅"
     },
     {
-      "title": "智源多模态大模型登Nature，确立自回归成为生成式人工智能统一路线",
-      "url": "https://www.infoq.cn/article/Xr6XspENqsQuZuVvwQqQ?utm_source=rss&utm_medium=article",
+      "title": "OCR竞争加剧！百度开源新一代SOTA OCR模型，性能超越DeepSeek-OCR2？",
+      "url": "https://www.infoq.cn/article/US8DFAjTKWuEUkRBEFSj?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-01-29 14:47:46",
+      "published": "2026-01-30 16:34:01",
       "summary": "点击查看原文>",
-      "author": "华卫"
+      "author": "褚杏娟"
     },
     {
-      "title": "“AI在一线：开发人员如何重塑软件开发流程” ｜圆桌讨论",
-      "url": "https://www.infoq.cn/article/btdQGESEtDXJQPTxVCYF?utm_source=rss&utm_medium=article",
+      "title": "商汤开源SenseNova-MARS，突破多模态搜索推理天花板",
+      "url": "https://www.infoq.cn/article/3x5oE24DW1X5eFYeMGTE?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-01-29 14:00:00",
+      "published": "2026-01-30 16:08:48",
       "summary": "点击查看原文>",
-      "author": "作者：Arthur Casals"
+      "author": "木子"
     }
   ]
 }

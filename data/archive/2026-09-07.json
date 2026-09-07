@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T02:50:31.705864",
   "date": "2026-09-07",
+  "timestamp": "2026-09-07T02:50:31.705864",
   "github_trending": {
     "python": [
       {
@@ -1162,6 +1162,105 @@
       "timestamp": 1788711005,
       "comments": 19,
       "hn_url": "https://news.ycombinator.com/item?id=49587903"
+    },
+    {
+      "id": 49542123,
+      "title": "Vidact – a compiler that turns React into direct DOM operations",
+      "url": "https://www.vidact.dev/",
+      "score": 55,
+      "author": "mohebifar",
+      "time": "2026-09-02 20:34:24",
+      "timestamp": 1788381264,
+      "comments": 26,
+      "hn_url": "https://news.ycombinator.com/item?id=49542123"
+    },
+    {
+      "id": 49589768,
+      "title": "D2 Is Non-Profit",
+      "url": "https://d2lang.com/blog/d2-non-profit/",
+      "score": 31,
+      "author": "alixanderwang",
+      "time": "2026-09-06 19:11:05",
+      "timestamp": 1788721865,
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49589768"
+    },
+    {
+      "id": 49540090,
+      "title": "Electronic skin for prosthetics to sense temperature and pressure",
+      "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
+      "score": 49,
+      "author": "gmays",
+      "time": "2026-09-02 18:06:56",
+      "timestamp": 1788372416,
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49540090"
+    },
+    {
+      "id": 49555114,
+      "title": "Every Novel Is Boring–Until It Isn't",
+      "url": "https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/",
+      "score": 17,
+      "author": "samclemens",
+      "time": "2026-09-03 19:10:02",
+      "timestamp": 1788462602,
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49555114"
+    },
+    {
+      "id": 49531619,
+      "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+      "url": "https://en.wikipedia.org/wiki/M-DISC",
+      "score": 188,
+      "author": "gurjeet",
+      "time": "2026-09-02 04:10:21",
+      "timestamp": 1788322221,
+      "comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=49531619"
+    },
+    {
+      "id": 49584083,
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "score": 563,
+      "author": "mpweiher",
+      "time": "2026-09-06 07:21:06",
+      "timestamp": 1788679266,
+      "comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=49584083"
+    },
+    {
+      "id": 49585627,
+      "title": "Doomscrolling ourselves to death",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "score": 374,
+      "author": "shubhamjain",
+      "time": "2026-09-06 11:53:40",
+      "timestamp": 1788695620,
+      "comments": 276,
+      "hn_url": "https://news.ycombinator.com/item?id=49585627"
+    },
+    {
+      "id": 49586005,
+      "title": "2026 Hugo Awards",
+      "url": "https://www.thehugoawards.org/",
+      "score": 75,
+      "author": "signa11",
+      "time": "2026-09-06 12:41:59",
+      "timestamp": 1788698519,
+      "comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=49586005"
+    },
+    {
+      "id": 49592375,
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "score": 28,
+      "author": "treve",
+      "time": "2026-09-07 00:22:04",
+      "timestamp": 1788740524,
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49592375"
     }
   ],
   "rss_feeds": [
@@ -1404,12 +1503,326 @@
       "published": "2026-09-04 17:18:12",
       "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
       "author": "Dan Goodin"
+    },
+    {
+      "title": "The Best Laptop Backpacks for Work, Travel, and Everything Between (2026)",
+      "url": "https://www.wired.com/story/best-laptop-backpacks/",
+      "source": "Wired",
+      "published": "2026-09-06 11:30:00",
+      "summary": "The wrong bag can aggravate you every single day. These WIRED-tested picks get comfort, capacity, and organization just right.",
+      "author": "Kat Merck"
+    },
+    {
+      "title": "Create Custom Windows 11 Notifications to Remind Yourself of Anything",
+      "url": "https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything/",
+      "source": "Wired",
+      "published": "2026-09-06 11:00:00",
+      "summary": "Take full control of your desktop alerts by sending yourself recurring reminders and custom notifications triggered by specific events.",
+      "author": "David Nield"
+    },
+    {
+      "title": "These Cyborg Cockroaches Could Save Your Life",
+      "url": "https://www.wired.com/story/cyborg-cockroaches-disaster-response/",
+      "source": "Wired",
+      "published": "2026-09-06 10:30:00",
+      "summary": "The team embedded electrodes into live cockroaches, then outfitted them with cameras and injection devices to deliver medication via remote control.",
+      "author": "Ritsuko Kawai"
+    },
+    {
+      "title": "My Brief Summer Fling With Siri AI",
+      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "source": "Wired",
+      "published": "2026-09-06 10:30:00",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "author": "Reece Rogers"
+    },
+    {
+      "title": "Best Water Leak Detectors (2026): Moen, Phyn, TP-Link",
+      "url": "https://www.wired.com/gallery/best-water-leak-detector/",
+      "source": "Wired",
+      "published": "2026-09-06 10:09:00",
+      "summary": "Don’t let busted pipes or an overflowing washing machine dampen your day. These smart water sensors can help you catch problems quicker.",
+      "author": "Simon Hill"
+    },
+    {
+      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+      "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+      "source": "Wired",
+      "published": "2026-09-06 10:00:00",
+      "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
+      "author": "Molly Taft"
+    },
+    {
+      "title": "The Best Gaming Chairs (2026): Are They Worth It?",
+      "url": "https://www.wired.com/gallery/best-gaming-chairs/",
+      "source": "Wired",
+      "published": "2026-09-06 09:45:00",
+      "summary": "The best gaming chair is actually an office chair. Here are our top picks from our real-life testing so far.",
+      "author": "Louryn Strampe"
+    },
+    {
+      "title": "4 Best Alexa Speakers I’ve Tested (2026)",
+      "url": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/",
+      "source": "Wired",
+      "published": "2026-09-05 11:01:00",
+      "summary": "I’ve rounded up the best smart speakers that let you talk to Alexa, from the popular Echo Dot to the newest Echo Studio.",
+      "author": "Nena Farrell"
+    },
+    {
+      "title": "There May Not Be an iPhone 18 This Year",
+      "url": "https://www.wired.com/story/there-may-not-be-an-iphone-18-this-year/",
+      "source": "Wired",
+      "published": "2026-09-05 10:30:00",
+      "summary": "Apple is expected to announce several products at its September event next week—including a folding phone—but the iPhone 18 might not be among them. It would be a first for the company.",
+      "author": "Boone Ashworth"
+    },
+    {
+      "title": "OpenAI Agents Hacked Another Website",
+      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "source": "Wired",
+      "published": "2026-09-05 10:30:00",
+      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+      "author": "Lily Hay Newman, Matt Burgess, Dhruv Mehrotra"
+    },
+    {
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-04 18:39:19",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv...",
+      "author": "MIT Technology Review Insights"
+    },
+    {
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-04 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketp...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-04 09:25:19",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the...",
+      "author": "Cory Alpert"
+    },
+    {
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-03 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have b...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Agriculture relies on fossil fuels. It’s costing us.",
+      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-03 10:00:00",
+      "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especial...",
+      "author": "Casey Crownhart"
+    },
+    {
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-03 09:30:32",
+      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across ...",
+      "author": "MIT Technology Review Insights"
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-02 14:00:00",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds ...",
+      "author": "MIT Technology Review Insights"
+    },
+    {
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-02 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any bett...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-01 19:10:36",
+      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all...",
+      "author": "Michelle Kim"
+    },
+    {
+      "title": "Making the AI-powered case for legacy modernization",
+      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-01 14:00:00",
+      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could...",
+      "author": "MIT Technology Review Insights"
+    },
+    {
+      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+      "url": "https://sspai.com/post/114250",
+      "source": "少数派",
+      "published": "2026-09-07 00:20:41",
+      "summary": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
+      "url": "https://sspai.com/post/114076",
+      "source": "少数派",
+      "published": "2026-09-06 07:00:00",
+      "summary": "对于使用AppleWatch游泳的人来说，记录一次游泳并不困难。在手表上打开体能训练App，选择开始游泳，结束后就能在Apple健身中看到完整的游泳表现，包括时间、距离、卡路里、配速、心率等数据。但真 ...查看全文",
+      "author": "ElijahLee"
+    },
+    {
+      "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
+      "url": "https://sspai.com/post/114040",
+      "source": "少数派",
+      "published": "2026-09-05 08:00:01",
+      "summary": "它没有卷到极致的轻量化，也没有最极端的气动数据，但综合实力稳稳站在顶级公路车的第一梯队。查看全文",
+      "author": "写小黑文的Alex"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "url": "https://sspai.com/post/114175",
+      "source": "少数派",
+      "published": "2026-09-04 09:32:48",
+      "summary": "📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
+      "url": "https://sspai.com/post/114110",
+      "source": "少数派",
+      "published": "2026-09-04 07:11:46",
+      "summary": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文",
+      "author": "福利派"
+    },
+    {
+      "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
+      "url": "https://sspai.com/post/114117",
+      "source": "少数派",
+      "published": "2026-09-04 07:01:57",
+      "summary": "研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文",
+      "author": "谷雨G2rain"
+    },
+    {
+      "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p",
+      "url": "https://sspai.com/post/113990",
+      "source": "少数派",
+      "published": "2026-09-04 03:25:29",
+      "summary": "在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文",
+      "author": "随便好啦"
+    },
+    {
+      "title": "新玩意 251｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/114154",
+      "source": "少数派",
+      "published": "2026-09-03 10:18:06",
+      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗手间置物架参考价 ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
+      "url": "https://sspai.com/post/113998",
+      "source": "少数派",
+      "published": "2026-09-03 07:00:00",
+      "summary": "经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。查看全文",
+      "author": "KingTsui"
+    },
+    {
+      "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
+      "url": "https://sspai.com/post/113159",
+      "source": "少数派",
+      "published": "2026-09-03 03:32:28",
+      "summary": "聊聊 Hi-Fi 这件事。查看全文",
+      "author": "DerQi"
+    },
+    {
+      "title": "微软 Foundry 模型路由扩容：覆盖区域增至 28 个，更新模型池",
+      "url": "https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-06 15:10:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Steef-Jan Wiggers"
+    },
+    {
+      "title": "FlexGanttFX 正式开源",
+      "url": "https://www.infoq.cn/article/BLyA80LXfvGII85FGmw8?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-06 11:24:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Erik Costlow"
+    },
+    {
+      "title": "蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+      "url": "https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-06 09:15:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Olimpiu Pop"
+    },
+    {
+      "title": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+      "url": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-05 17:00:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Olimpiu Pop"
+    },
+    {
+      "title": "Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
+      "url": "https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-05 11:17:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Leela Kumili"
+    },
+    {
+      "title": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+      "url": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-05 09:56:00",
+      "summary": "点击查看原文>",
+      "author": "作者： Matt Foster"
+    },
+    {
+      "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
+      "url": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-04 22:18:30",
+      "summary": "点击查看原文>",
+      "author": "王玮"
+    },
+    {
+      "title": "Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式",
+      "url": "https://www.infoq.cn/article/hWQs9a123hhtDYtk0ADQ?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-04 17:23:00",
+      "summary": "点击查看原文>",
+      "author": "作者： Pankaj Sharma"
+    },
+    {
+      "title": "Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付",
+      "url": "https://www.infoq.cn/article/B5bNUx3GzrUZGvDmBbFi?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-04 15:09:00",
+      "summary": "点击查看原文>",
+      "author": "作者： Steef-Jan Wiggers"
+    },
+    {
+      "title": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+      "url": "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-04 13:00:00",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
     }
-  ],
-  "statistics": {
-    "github_repos": 103,
-    "hackernews_stories": 29,
-    "rss_articles": 70,
-    "total": 202
-  }
+  ]
 }

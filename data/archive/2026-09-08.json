@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T03:00:21.224590",
   "date": "2026-09-08",
+  "timestamp": "2026-09-08T03:00:21.224590",
   "github_trending": {
     "python": [
       {
@@ -1180,6 +1180,116 @@
       "timestamp": 1788811932,
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=49602490"
+    },
+    {
+      "id": 49561002,
+      "title": "Decoding the NEC V20 Microcode",
+      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "score": 127,
+      "author": "mariuz",
+      "time": "2026-09-04 05:53:38",
+      "timestamp": 1788501218,
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49561002"
+    },
+    {
+      "id": 49558685,
+      "title": "Simple Is Not Small",
+      "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+      "score": 216,
+      "author": "zdw",
+      "time": "2026-09-03 23:47:28",
+      "timestamp": 1788479248,
+      "comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=49558685"
+    },
+    {
+      "id": 49602716,
+      "title": "Macbeth and His Problems",
+      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+      "score": 45,
+      "author": "apophatic",
+      "time": "2026-09-07 20:34:32",
+      "timestamp": 1788813272,
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=49602716"
+    },
+    {
+      "id": 49593563,
+      "title": "Keep Our Servers Running",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "score": 961,
+      "author": "sonicrocketman",
+      "time": "2026-09-07 03:29:51",
+      "timestamp": 1788751791,
+      "comments": 249,
+      "hn_url": "https://news.ycombinator.com/item?id=49593563"
+    },
+    {
+      "id": 49557986,
+      "title": "Methods for Random Gradients (2024)",
+      "url": "https://justinjay.wang/methods-for-random-gradients/",
+      "score": 47,
+      "author": "nickswalker",
+      "time": "2026-09-03 22:26:44",
+      "timestamp": 1788474404,
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49557986"
+    },
+    {
+      "id": 49589190,
+      "title": "The Dataflow Model Revisited",
+      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+      "score": 89,
+      "author": "scott_s",
+      "time": "2026-09-06 18:10:53",
+      "timestamp": 1788718253,
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49589190"
+    },
+    {
+      "id": 49598291,
+      "title": "bzip3",
+      "url": "https://github.com/iczelia/bzip3",
+      "score": 388,
+      "author": "tosh",
+      "time": "2026-09-07 13:35:13",
+      "timestamp": 1788788113,
+      "comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=49598291"
+    },
+    {
+      "id": 49595865,
+      "title": "Live map of public transport in Belgium",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "score": 188,
+      "author": "coinfused",
+      "time": "2026-09-07 09:02:47",
+      "timestamp": 1788771767,
+      "comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=49595865"
+    },
+    {
+      "id": 49564839,
+      "title": "She Also Found It at the Movies",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/she-also-found-it-at-the-movies",
+      "score": 28,
+      "author": "prismatic",
+      "time": "2026-09-04 14:04:42",
+      "timestamp": 1788530682,
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49564839"
+    },
+    {
+      "id": 49562440,
+      "title": "Whistle Synth Mac App",
+      "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
+      "score": 70,
+      "author": "luu",
+      "time": "2026-09-04 09:44:45",
+      "timestamp": 1788515085,
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=49562440"
     }
   ],
   "rss_feeds": [
@@ -1422,12 +1532,326 @@
       "published": "2026-09-04 17:35:02",
       "summary": "Broadcom admits it put “too big a focus on VCF.”",
       "author": "Scharon Harding"
+    },
+    {
+      "title": "Le Creuset x Star Trek Collection: Prices, availability, release date",
+      "url": "https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/",
+      "source": "Wired",
+      "published": "2026-09-07 23:00:00",
+      "summary": "Vulcan oven mitts, spaceship baking dishes, and an out-of-this-world communicator grater—you'll need warp speed to Klingon to this limited edition kitchen kit, ideal for perfecting the broth of Khan.",
+      "author": "Jeremy White"
+    },
+    {
+      "title": "Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools",
+      "url": "https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/",
+      "source": "Wired",
+      "published": "2026-09-07 16:35:52",
+      "summary": "The Home Depot Labor Day sale goes hard on grills and tools. Here are our recommendations on what to buy—and what to ignore.",
+      "author": "Matthew Korfhage"
+    },
+    {
+      "title": "Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More",
+      "url": "https://www.wired.com/story/tech-labor-day-sales-2026/",
+      "source": "Wired",
+      "published": "2026-09-07 16:33:37",
+      "summary": "From cordless vacuums to the best wireless earbuds we’ve tested, some of our favorite tech is on sale for Labor Day this year.",
+      "author": "Nena Farrell"
+    },
+    {
+      "title": "The 57 Best Deals From the REI Labor Day Sale",
+      "url": "https://www.wired.com/story/rei-labor-day-sale-2026/",
+      "source": "Wired",
+      "published": "2026-09-07 13:33:30",
+      "summary": "Labor Day already? Say it ain’t so. Today is the last day to shop the best deals on WIRED-tested outdoor gear from REI, Nemo, MSR, Coleman, and more during REI’s Labor Day sale.",
+      "author": "Scott Gilbertson"
+    },
+    {
+      "title": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
+      "url": "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/",
+      "source": "Wired",
+      "published": "2026-09-07 12:00:00",
+      "summary": "Dark energy might be getting weaker. Scientists are wondering if interactions with dark matter in a “dark dimension” may be responsible.",
+      "author": "Steve Nadis"
+    },
+    {
+      "title": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.",
+      "url": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
+      "source": "Wired",
+      "published": "2026-09-07 11:30:00",
+      "summary": "The intricate, 5.6 trillion-pixel map covers approximately 75 percent of the sky and includes about 4 billion celestial objects.",
+      "author": "Ritsuko Kawai"
+    },
+    {
+      "title": "Every Samsung Galaxy Phone Comes With This Unique Add-On",
+      "url": "https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/",
+      "source": "Wired",
+      "published": "2026-09-07 11:00:00",
+      "summary": "It’s called the Edge Panel. Here’s how to make the most of it.",
+      "author": "David Nield"
+    },
+    {
+      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+      "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+      "source": "Wired",
+      "published": "2026-09-07 10:30:00",
+      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+      "author": "Reece Rogers"
+    },
+    {
+      "title": "How to Watch the Apple September Event (2026)",
+      "url": "https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/",
+      "source": "Wired",
+      "published": "2026-09-07 10:15:00",
+      "summary": "Apple’s annual hardware launch event may feel different as the company welcomes a new CEO alongside a folding iPhone.",
+      "author": "Boone Ashworth"
+    },
+    {
+      "title": "What’s the Best Kindle of 2026 (So Far)?",
+      "url": "https://www.wired.com/gallery/best-kindle/",
+      "source": "Wired",
+      "published": "2026-09-07 10:04:00",
+      "summary": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
+      "author": "Nena Farrell"
+    },
+    {
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-07 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of explorati...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-04 18:39:19",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv...",
+      "author": "MIT Technology Review Insights"
+    },
+    {
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-04 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketp...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-04 09:25:19",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the...",
+      "author": "Cory Alpert"
+    },
+    {
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-03 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have b...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Agriculture relies on fossil fuels. It’s costing us.",
+      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-03 10:00:00",
+      "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especial...",
+      "author": "Casey Crownhart"
+    },
+    {
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-03 09:30:32",
+      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across ...",
+      "author": "MIT Technology Review Insights"
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-02 14:00:00",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds ...",
+      "author": "MIT Technology Review Insights"
+    },
+    {
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-02 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any bett...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-01 19:10:36",
+      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all...",
+      "author": "Michelle Kim"
+    },
+    {
+      "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等",
+      "url": "https://sspai.com/post/114307",
+      "source": "少数派",
+      "published": "2026-09-08 00:07:33",
+      "summary": "少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "派评｜近期值得关注的 App",
+      "url": "https://sspai.com/post/114288",
+      "source": "少数派",
+      "published": "2026-09-07 10:08:44",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
+      "url": "https://sspai.com/post/113877",
+      "source": "少数派",
+      "published": "2026-09-07 07:00:00",
+      "summary": "一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文",
+      "author": "一群小羊说"
+    },
+    {
+      "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
+      "url": "https://sspai.com/post/114103",
+      "source": "少数派",
+      "published": "2026-09-07 03:10:02",
+      "summary": "在金属机身成为 Mac 产品线标配的今天，让我们重温这台 2001 年的 iBook G3，找回属于聚碳酸酯时代的风格。查看全文",
+      "author": "随便好啦"
+    },
+    {
+      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+      "url": "https://sspai.com/post/114250",
+      "source": "少数派",
+      "published": "2026-09-07 00:20:41",
+      "summary": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
+      "url": "https://sspai.com/post/114076",
+      "source": "少数派",
+      "published": "2026-09-06 07:00:00",
+      "summary": "对于使用AppleWatch游泳的人来说，记录一次游泳并不困难。在手表上打开体能训练App，选择开始游泳，结束后就能在Apple健身中看到完整的游泳表现，包括时间、距离、卡路里、配速、心率等数据。但真 ...查看全文",
+      "author": "ElijahLee"
+    },
+    {
+      "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
+      "url": "https://sspai.com/post/114040",
+      "source": "少数派",
+      "published": "2026-09-05 08:00:01",
+      "summary": "它没有卷到极致的轻量化，也没有最极端的气动数据，但综合实力稳稳站在顶级公路车的第一梯队。查看全文",
+      "author": "写小黑文的Alex"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "url": "https://sspai.com/post/114175",
+      "source": "少数派",
+      "published": "2026-09-04 09:32:48",
+      "summary": "📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
+      "url": "https://sspai.com/post/114110",
+      "source": "少数派",
+      "published": "2026-09-04 07:11:46",
+      "summary": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文",
+      "author": "福利派"
+    },
+    {
+      "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
+      "url": "https://sspai.com/post/114117",
+      "source": "少数派",
+      "published": "2026-09-04 07:01:57",
+      "summary": "研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文",
+      "author": "谷雨G2rain"
+    },
+    {
+      "title": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
+      "url": "https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-08 09:11:00",
+      "summary": "点击查看原文>",
+      "author": "作者： Daniel Dominguez"
+    },
+    {
+      "title": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+      "url": "https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-07 19:33:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Craig Risi"
+    },
+    {
+      "title": "从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海",
+      "url": "https://www.infoq.cn/article/5Xy6jTfq7Si98XvXAJCp?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-07 19:30:38",
+      "summary": "点击查看原文>",
+      "author": "QCon全球软件开发大会"
+    },
+    {
+      "title": "利用 Workload Identity Federation 清除 GCP 中长期有效的凭据",
+      "url": "https://www.infoq.cn/article/bEwEWltvchcPZUACt36w?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-07 18:24:00",
+      "summary": "点击查看原文>",
+      "author": "作者： Shijin Nair"
+    },
+    {
+      "title": "Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
+      "url": "https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-07 17:34:00",
+      "summary": "点击查看原文>",
+      "author": "作者： Sergio De Simone"
+    },
+    {
+      "title": "AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来",
+      "url": "https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-07 16:32:04",
+      "summary": "点击查看原文>",
+      "author": "作者：Renato Losio"
+    },
+    {
+      "title": "TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统",
+      "url": "https://www.infoq.cn/article/atCusTaSOmddUx1vvJba?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-07 16:18:46",
+      "summary": "点击查看原文>",
+      "author": "傅宇琪,Tina"
+    },
+    {
+      "title": "“薄 Agent Loop，厚 Control Plane”：TiDB 用数据库思维重做 Harness",
+      "url": "https://www.infoq.cn/article/38uc758e24YV4LUpAs77?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-07 16:10:35",
+      "summary": "点击查看原文>",
+      "author": "Tina"
+    },
+    {
+      "title": "9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约",
+      "url": "https://www.infoq.cn/article/D5heSof43WbGMHrCCIsy?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-07 15:48:20",
+      "summary": "点击查看原文>",
+      "author": "InfoQ"
+    },
+    {
+      "title": "成立 12 年，快看漫画重做 AI 时代的内容产品",
+      "url": "https://www.infoq.cn/article/kAHvBCLrI3sdMyONOveM?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-07 15:08:45",
+      "summary": "点击查看原文>",
+      "author": "陈姚戈"
     }
-  ],
-  "statistics": {
-    "github_repos": 105,
-    "hackernews_stories": 30,
-    "rss_articles": 70,
-    "total": 205
-  }
+  ]
 }

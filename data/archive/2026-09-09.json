@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T03:01:17.526175",
   "date": "2026-09-09",
+  "timestamp": "2026-09-09T03:01:17.526175",
   "github_trending": {
     "python": [
       {
@@ -1126,6 +1126,116 @@
       "timestamp": 1788886781,
       "comments": 22,
       "hn_url": "https://news.ycombinator.com/item?id=49613068"
+    },
+    {
+      "id": 49616272,
+      "title": "Animation in Bevy: The Big Picture",
+      "url": "https://glocq.com/en/blog/20260827/",
+      "score": 47,
+      "author": "ibobev",
+      "time": "2026-09-08 20:08:44",
+      "timestamp": 1788898124,
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49616272"
+    },
+    {
+      "id": 49598009,
+      "title": "Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",
+      "url": "https://news.ycombinator.com/item?id=49598009",
+      "score": 16,
+      "author": "rietta",
+      "time": "2026-09-07 13:09:44",
+      "timestamp": 1788786584,
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=49598009"
+    },
+    {
+      "id": 49575914,
+      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+      "score": 92,
+      "author": "metrofun",
+      "time": "2026-09-05 12:32:06",
+      "timestamp": 1788611526,
+      "comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=49575914"
+    },
+    {
+      "id": 49616354,
+      "title": "Mercury 2.5",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "score": 128,
+      "author": "Topfi",
+      "time": "2026-09-08 20:14:52",
+      "timestamp": 1788898492,
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=49616354"
+    },
+    {
+      "id": 49579443,
+      "title": "We built our house for LAN parties (2024)",
+      "url": "https://lanparty.house/",
+      "score": 436,
+      "author": "fittingopposite",
+      "time": "2026-09-05 18:44:40",
+      "timestamp": 1788633880,
+      "comments": 315,
+      "hn_url": "https://news.ycombinator.com/item?id=49579443"
+    },
+    {
+      "id": 49600901,
+      "title": "The Helicopter with Radioactive Blades",
+      "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+      "score": 152,
+      "author": "zdw",
+      "time": "2026-09-07 17:44:33",
+      "timestamp": 1788803073,
+      "comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=49600901"
+    },
+    {
+      "id": 49575766,
+      "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
+      "url": "https://uecker.codeberg.page/2026-09-05.html",
+      "score": 61,
+      "author": "uecker",
+      "time": "2026-09-05 12:09:29",
+      "timestamp": 1788610169,
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49575766"
+    },
+    {
+      "id": 49562430,
+      "title": "Tracing np.add, all the way down",
+      "url": "https://blog.veitheller.de/numpy.html",
+      "score": 41,
+      "author": "luu",
+      "time": "2026-09-04 09:42:29",
+      "timestamp": 1788514949,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49562430"
+    },
+    {
+      "id": 49610059,
+      "title": "Show HN: Copperhead – Cursor for circuit boards",
+      "url": "https://copperhead.sh/",
+      "score": 210,
+      "author": "animeshchouhan",
+      "time": "2026-09-08 13:26:45",
+      "timestamp": 1788874005,
+      "comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=49610059"
+    },
+    {
+      "id": 49599825,
+      "title": "Reverse Engineering an ASIC",
+      "url": "https://kjartanvandriel.github.io/asic/",
+      "score": 39,
+      "author": "burekqueen",
+      "time": "2026-09-07 16:02:02",
+      "timestamp": 1788796922,
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49599825"
     }
   ],
   "rss_feeds": [
@@ -1368,12 +1478,326 @@
       "published": "2026-09-08 18:00:56",
       "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
       "author": "Scott K. Johnson"
+    },
+    {
+      "title": "Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026",
+      "url": "https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/",
+      "source": "Wired",
+      "published": "2026-09-08 21:15:00",
+      "summary": "Every year, the prizes recognize the weirdest research that often raises some very serious scientific questions.",
+      "author": "Jorge Garay"
+    },
+    {
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "source": "Wired",
+      "published": "2026-09-08 20:12:51",
+      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+      "author": "Lily Hay Newman, Maxwell Zeff"
+    },
+    {
+      "title": "Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK",
+      "url": "https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/",
+      "source": "Wired",
+      "published": "2026-09-08 18:13:26",
+      "summary": "Now the UK government plans to introduce new legislation that would see companies face fines and potential criminal liability, and signaled similar plans could extend to Snapchat and Instagram.",
+      "author": "Isabella Ward"
+    },
+    {
+      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+      "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+      "source": "Wired",
+      "published": "2026-09-08 16:42:05",
+      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+      "author": "Will Knight, Maxwell Zeff"
+    },
+    {
+      "title": "Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone",
+      "url": "https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/",
+      "source": "Wired",
+      "published": "2026-09-08 16:00:00",
+      "summary": "The competition is “absolutely welcome” by the pioneering Korean giant, but Samsung warns that the device’s “weight” is crucial.",
+      "author": "Julian Chokkattu"
+    },
+    {
+      "title": "Richard Kelly on Donnie Darko at 25: ‘It’s a Miracle That Any Movie Gets Made’",
+      "url": "https://www.wired.com/story/richard-kelly-donnie-darko-25th-anniversary-interview/",
+      "source": "Wired",
+      "published": "2026-09-08 14:00:00",
+      "summary": "The director discusses his debut novel, staying true to an artistic vision, and the absurd line of dialogue from Donnie Darko he believes will find its way into his obituary.",
+      "author": "Miles Klee"
+    },
+    {
+      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids",
+      "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+      "source": "Wired",
+      "published": "2026-09-08 12:00:00",
+      "summary": "Images of real children—including a member of a European royal family—were used to create some of the 350 ads containing child sexual abuse. Lawmakers say they plan to investigate.",
+      "author": "Matt Burgess"
+    },
+    {
+      "title": "How NASA Testing Changed US Food Inspection Forever",
+      "url": "https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/",
+      "source": "Wired",
+      "published": "2026-09-08 11:00:00",
+      "summary": "In the early 20th century, public outcry following Upton Sinclair’s The Jungle led to stricter food safety protocols. NASA took them a step further.",
+      "author": "Alex Davies"
+    },
+    {
+      "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+      "url": "https://www.wired.com/story/best-smart-speakers/",
+      "source": "Wired",
+      "published": "2026-09-08 10:35:00",
+      "summary": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
+      "author": "Nena Farrell"
+    },
+    {
+      "title": "Insta360 X6 Review (2026): A Great 360 and Action Camera Hybrid",
+      "url": "https://www.wired.com/review/insta360-x6-camera/",
+      "source": "Wired",
+      "published": "2026-09-08 10:00:00",
+      "summary": "Insta360’s latest 360-degree camera uses larger sensors for better low-light performance and has a smaller body.",
+      "author": "Scott Gilbertson"
+    },
+    {
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-08 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-08 10:36:00",
+      "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and...",
+      "author": "Eshan Raul"
+    },
+    {
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-08 10:34:00",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only ...",
+      "author": "Mat Honan"
+    },
+    {
+      "title": "This founder is making cheaper, cleaner steel",
+      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-08 10:33:00",
+      "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt...",
+      "author": "Bridget Reed Morawski"
+    },
+    {
+      "title": "This geneticist’s age-reversal tech could help restore sight",
+      "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-08 10:32:00",
+      "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related bli...",
+      "author": "Antonio Regalado"
+    },
+    {
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-07 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of explorati...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-04 18:39:19",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv...",
+      "author": "MIT Technology Review Insights"
+    },
+    {
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-04 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketp...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-04 09:25:19",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the...",
+      "author": "Cory Alpert"
+    },
+    {
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-03 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have b...",
+      "author": "Thomas Macaulay"
+    },
+    {
+      "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
+      "url": "https://sspai.com/post/114352",
+      "source": "少数派",
+      "published": "2026-09-09 00:00:00",
+      "summary": "Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等。查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+      "url": "https://sspai.com/prime/story/sidecar-optimizations",
+      "source": "少数派",
+      "published": "2026-09-08 10:14:30",
+      "summary": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "author": "Nnnobel"
+    },
+    {
+      "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
+      "url": "https://sspai.com/post/114327",
+      "source": "少数派",
+      "published": "2026-09-08 09:00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+      "author": "Matrix机器人"
+    },
+    {
+      "title": "一日一技｜我的 Windows 11 头像会动，你也可以",
+      "url": "https://sspai.com/post/114312",
+      "source": "少数派",
+      "published": "2026-09-08 07:00:00",
+      "summary": "Where's everyone going? Bingo?查看全文",
+      "author": "克莱德"
+    },
+    {
+      "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
+      "url": "https://sspai.com/post/113299",
+      "source": "少数派",
+      "published": "2026-09-08 03:06:21",
+      "summary": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文",
+      "author": "SIMON_"
+    },
+    {
+      "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等",
+      "url": "https://sspai.com/post/114307",
+      "source": "少数派",
+      "published": "2026-09-08 00:07:33",
+      "summary": "少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "派评｜近期值得关注的 App",
+      "url": "https://sspai.com/post/114288",
+      "source": "少数派",
+      "published": "2026-09-07 10:08:44",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+      "author": "少数派编辑部"
+    },
+    {
+      "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
+      "url": "https://sspai.com/post/113877",
+      "source": "少数派",
+      "published": "2026-09-07 07:00:00",
+      "summary": "一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文",
+      "author": "一群小羊说"
+    },
+    {
+      "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
+      "url": "https://sspai.com/post/114103",
+      "source": "少数派",
+      "published": "2026-09-07 03:10:02",
+      "summary": "在金属机身成为 Mac 产品线标配的今天，让我们重温这台 2001 年的 iBook G3，找回属于聚碳酸酯时代的风格。查看全文",
+      "author": "随便好啦"
+    },
+    {
+      "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
+      "url": "https://sspai.com/post/114076",
+      "source": "少数派",
+      "published": "2026-09-06 07:00:00",
+      "summary": "对于使用AppleWatch游泳的人来说，记录一次游泳并不困难。在手表上打开体能训练App，选择开始游泳，结束后就能在Apple健身中看到完整的游泳表现，包括时间、距离、卡路里、配速、心率等数据。但真 ...查看全文",
+      "author": "ElijahLee"
+    },
+    {
+      "title": "Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
+      "url": "https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-09 10:00:00",
+      "summary": "点击查看原文>",
+      "author": "QCon全球软件开发大会"
+    },
+    {
+      "title": "Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！",
+      "url": "https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-09 09:00:00",
+      "summary": "点击查看原文>",
+      "author": "凌敏"
+    },
+    {
+      "title": "从告警风暴到一句话诊断：HCF 全息编码框架科普",
+      "url": "https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-08 20:59:09",
+      "summary": "点击查看原文>",
+      "author": "刘翔宇"
+    },
+    {
+      "title": "Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+      "url": "https://www.infoq.cn/article/IR6XdUEok3aY1YSDOvat?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-08 20:35:10",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息",
+      "url": "https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-08 17:06:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Olimpiu Pop"
+    },
+    {
+      "title": "Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+      "url": "https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-08 16:31:12",
+      "summary": "点击查看原文>",
+      "author": "蔡芳芳"
+    },
+    {
+      "title": "华为乾崑，守护200万份信任",
+      "url": "https://www.infoq.cn/article/TzHCuwlw0ftVmMe4EfXv?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-08 15:39:02",
+      "summary": "点击查看原文>",
+      "author": "HarmonyOS"
+    },
+    {
+      "title": "Swiggy 基于 350 多个特征与多任务 MLP 实现客户终身价值预测",
+      "url": "https://www.infoq.cn/article/9yQHZ7fZeIBMidz6pjPC?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-08 15:06:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Leela Kumili"
+    },
+    {
+      "title": "OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来",
+      "url": "https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-08 13:55:41",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互",
+      "url": "https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-08 13:32:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Eran Stiller"
     }
-  ],
-  "statistics": {
-    "github_repos": 99,
-    "hackernews_stories": 30,
-    "rss_articles": 70,
-    "total": 199
-  }
+  ]
 }

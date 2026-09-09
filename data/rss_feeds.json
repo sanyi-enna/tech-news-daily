@@ -1,326 +1,366 @@
 {
-  "timestamp": "2026-09-08T03:00:21.224590",
-  "date": "2026-09-08",
+  "timestamp": "2026-09-09T03:01:17.526175",
+  "date": "2026-09-09",
   "data": [
     {
-      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
-      "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+      "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
       "source": "TechCrunch",
-      "published": "2026-09-08 02:16:39",
-      "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-f...",
-      "author": "Connie Loizos"
+      "published": "2026-09-08 23:23:23",
+      "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+      "author": "Lucas Ropek"
     },
     {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
       "source": "TechCrunch",
-      "published": "2026-09-07 19:24:00",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "author": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek"
+      "published": "2026-09-08 21:10:27",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "author": "Julie Bort"
     },
     {
-      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
       "source": "TechCrunch",
-      "published": "2026-09-07 18:02:29",
-      "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
-      "author": "Connie Loizos"
+      "published": "2026-09-08 21:04:06",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "author": "Marina Temkin"
     },
     {
-      "title": "What we expect from the upcoming Apple launch",
-      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+      "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
       "source": "TechCrunch",
-      "published": "2026-09-07 15:58:00",
-      "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "published": "2026-09-08 20:47:34",
+      "summary": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
+      "author": "Anna Heim"
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "source": "TechCrunch",
+      "published": "2026-09-08 19:00:00",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t...",
+      "author": "Sarah Perez"
+    },
+    {
+      "title": "How to watch Apple’s foldable iPhone announcement",
+      "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+      "source": "TechCrunch",
+      "published": "2026-09-08 17:46:53",
+      "summary": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.",
       "author": "Amanda Silberling"
     },
     {
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
       "source": "TechCrunch",
-      "published": "2026-09-06 21:41:06",
-      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-      "author": "Anthony Ha"
+      "published": "2026-09-08 17:32:15",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "author": "Russell Brandom"
     },
     {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
       "source": "TechCrunch",
-      "published": "2026-09-06 20:47:37",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "author": "Anthony Ha"
+      "published": "2026-09-08 16:20:31",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "author": "Rebecca Bellan"
     },
     {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+      "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
       "source": "TechCrunch",
-      "published": "2026-09-06 16:45:00",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "author": "Anthony Ha"
+      "published": "2026-09-08 15:25:35",
+      "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
+      "author": "Tim De Chant"
     },
     {
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
       "source": "TechCrunch",
-      "published": "2026-09-06 16:08:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "author": "Kirsten Korosec"
+      "published": "2026-09-08 15:04:09",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "author": "Sarah Perez"
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "TechCrunch",
-      "published": "2026-09-05 22:49:55",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "author": "Anthony Ha"
-    },
-    {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "TechCrunch",
-      "published": "2026-09-05 19:35:24",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "author": "Anthony Ha"
-    },
-    {
-      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
-      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "title": "Sony isn’t phasing out discs quite as quickly as we thought",
+      "url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
       "source": "The Verge",
-      "published": "2026-09-08 02:00:00",
-      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics ...",
+      "published": "2026-09-08 21:52:13",
+      "summary": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's la...",
       "author": "Sean Hollister"
     },
     {
-      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
-      "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
       "source": "The Verge",
-      "published": "2026-09-07 20:03:41",
-      "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want som...",
+      "published": "2026-09-08 20:53:52",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced...",
+      "author": "Emma Roth"
+    },
+    {
+      "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
+      "url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
+      "source": "The Verge",
+      "published": "2026-09-08 20:46:56",
+      "summary": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately se...",
       "author": "Andrew J. Hawkins"
     },
     {
-      "title": "Six years later, Sony revisits its legendary XM4 headphones",
-      "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+      "title": "Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+      "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
       "source": "The Verge",
-      "published": "2026-09-07 16:00:00",
-      "summary": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide...",
-      "author": "John.Higgins"
+      "published": "2026-09-08 20:39:49",
+      "summary": "It’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific mo...",
+      "author": "Brad Bourque"
     },
     {
-      "title": "EcoFlow makes the miniature power station even smaller",
-      "url": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
       "source": "The Verge",
-      "published": "2026-09-07 14:59:41",
-      "summary": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capac...",
-      "author": "Thomas Ricker"
+      "published": "2026-09-08 20:16:09",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw so...",
+      "author": "Jay Peters"
     },
     {
-      "title": "The real reason your phone is getting more expensive",
-      "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
       "source": "The Verge",
-      "published": "2026-09-07 12:00:00",
-      "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign...",
-      "author": "Rani Molla"
+      "published": "2026-09-08 19:00:00",
+      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a mult...",
+      "author": "Robert Hart"
     },
     {
-      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-      "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
       "source": "The Verge",
-      "published": "2026-09-07 11:00:00",
-      "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac'...",
-      "author": "Peter Nelson"
+      "published": "2026-09-08 17:27:31",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misl...",
+      "author": "Hayden Field"
     },
     {
-      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-      "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+      "title": "Nintendo isn’t scared of GTA VI",
+      "url": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
       "source": "The Verge",
-      "published": "2026-09-07 10:09:42",
-      "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used o...",
-      "author": "Dominic Preston"
+      "published": "2026-09-08 17:13:51",
+      "summary": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI. ...",
+      "author": "Andrew Webster"
     },
     {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
+      "url": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
       "source": "The Verge",
-      "published": "2026-09-06 23:36:04",
-      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI...",
-      "author": "Terrence O’Brien"
+      "published": "2026-09-08 16:06:56",
+      "summary": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the...",
+      "author": "Andrew J. Hawkins"
     },
     {
-      "title": "An Amazon cargo plane crashed at Miami International Airport",
-      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "title": "The White House pulls its racist Tetris clone",
+      "url": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
       "source": "The Verge",
-      "published": "2026-09-06 20:56:38",
-      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the se...",
-      "author": "Terrence O’Brien"
+      "published": "2026-09-08 16:00:51",
+      "summary": "The White House has taken down its racist Tetris ripoff days after launching a website dedicated to \"arcade\" games, as spotted earlier by Kotaku. The Tetris clone, called \"Build the Wall,\" involved st...",
+      "author": "Emma Roth"
     },
     {
-      "title": "Europe has its first commercial orbital rocket",
-      "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
-      "source": "The Verge",
-      "published": "2026-09-06 19:04:22",
-      "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the veh...",
-      "author": "Terrence O’Brien"
-    },
-    {
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "title": "LG TV shown scanning LAN for third-party phones and other devices",
+      "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
       "source": "Ars Technica",
-      "published": "2026-09-07 11:00:03",
-      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
-      "author": "Petala Ironcloud"
-    },
-    {
-      "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-      "source": "Ars Technica",
-      "published": "2026-09-06 11:55:26",
-      "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
-      "author": "Stephen Clark"
-    },
-    {
-      "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
-      "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
-      "source": "Ars Technica",
-      "published": "2026-09-06 10:00:35",
-      "summary": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
-      "author": "Georgina Gustin, Inside Climate News"
-    },
-    {
-      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-      "source": "Ars Technica",
-      "published": "2026-09-05 15:17:36",
-      "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
-      "author": "Aarian Marshall, WIRED.COM"
-    },
-    {
-      "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-      "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
-      "source": "Ars Technica",
-      "published": "2026-09-04 22:49:17",
-      "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
-      "author": "Stephen Clark"
-    },
-    {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "source": "Ars Technica",
-      "published": "2026-09-04 22:17:36",
-      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "author": "Dan Goodin"
-    },
-    {
-      "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
-      "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
-      "source": "Ars Technica",
-      "published": "2026-09-04 20:22:41",
-      "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
-      "author": "Beth Mole"
-    },
-    {
-      "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
-      "source": "Ars Technica",
-      "published": "2026-09-04 19:46:34",
-      "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
-      "author": "Jon Brodkin"
-    },
-    {
-      "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
-      "url": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
-      "source": "Ars Technica",
-      "published": "2026-09-04 19:01:02",
-      "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
-      "author": "Jennifer Ouellette"
-    },
-    {
-      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-      "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
-      "source": "Ars Technica",
-      "published": "2026-09-04 17:35:02",
-      "summary": "Broadcom admits it put “too big a focus on VCF.”",
+      "published": "2026-09-08 21:52:29",
+      "summary": "“It doesn’t cost a lot to store text forever.”",
       "author": "Scharon Harding"
     },
     {
-      "title": "Le Creuset x Star Trek Collection: Prices, availability, release date",
-      "url": "https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/",
-      "source": "Wired",
-      "published": "2026-09-07 23:00:00",
-      "summary": "Vulcan oven mitts, spaceship baking dishes, and an out-of-this-world communicator grater—you'll need warp speed to Klingon to this limited edition kitchen kit, ideal for perfecting the broth of Khan.",
-      "author": "Jeremy White"
+      "title": "GOG brings back \"big box\" PC games, one printable template at a time",
+      "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+      "source": "Ars Technica",
+      "published": "2026-09-08 21:23:13",
+      "summary": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
+      "author": "Kyle Orland"
     },
     {
-      "title": "Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools",
-      "url": "https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/",
-      "source": "Wired",
-      "published": "2026-09-07 16:35:52",
-      "summary": "The Home Depot Labor Day sale goes hard on grills and tools. Here are our recommendations on what to buy—and what to ignore.",
-      "author": "Matthew Korfhage"
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "source": "Ars Technica",
+      "published": "2026-09-08 21:11:46",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "author": "Dan Goodin"
     },
     {
-      "title": "Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More",
-      "url": "https://www.wired.com/story/tech-labor-day-sales-2026/",
+      "title": "The universal language of space is... Star Trek? Mais oui.",
+      "url": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
+      "source": "Ars Technica",
+      "published": "2026-09-08 20:20:20",
+      "summary": "\"Science fiction imagines the future. We build it.\"",
+      "author": "Robert Pearlman"
+    },
+    {
+      "title": "NIH to use part of its budget to pay for Department of Defense research",
+      "url": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
+      "source": "Ars Technica",
+      "published": "2026-09-08 20:06:44",
+      "summary": "Money would ostensibly fund research the NIH leadership said it no longer wanted.",
+      "author": "John Timmer"
+    },
+    {
+      "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+      "url": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+      "source": "Ars Technica",
+      "published": "2026-09-08 19:50:00",
+      "summary": "Republican victory means stations must offer lowest ad prices to political parties.",
+      "author": "Jon Brodkin"
+    },
+    {
+      "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+      "url": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+      "source": "Ars Technica",
+      "published": "2026-09-08 19:12:53",
+      "summary": "Chipmaking changes could boost productivity of new ASML machines by 40 percent.",
+      "author": "Jeremy Hsu"
+    },
+    {
+      "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
+      "url": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
+      "source": "Ars Technica",
+      "published": "2026-09-08 18:53:23",
+      "summary": "Director Takashi Yamazaki's hotly anticipated sequel takes place two years after 2023 film's events.",
+      "author": "Jennifer Ouellette"
+    },
+    {
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "source": "Ars Technica",
+      "published": "2026-09-08 18:43:09",
+      "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+      "author": "Ashley Belanger"
+    },
+    {
+      "title": "Update to Google’s AI weather model improves forecast accuracy",
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "source": "Ars Technica",
+      "published": "2026-09-08 18:00:56",
+      "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
+      "author": "Scott K. Johnson"
+    },
+    {
+      "title": "Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026",
+      "url": "https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/",
       "source": "Wired",
-      "published": "2026-09-07 16:33:37",
-      "summary": "From cordless vacuums to the best wireless earbuds we’ve tested, some of our favorite tech is on sale for Labor Day this year.",
+      "published": "2026-09-08 21:15:00",
+      "summary": "Every year, the prizes recognize the weirdest research that often raises some very serious scientific questions.",
+      "author": "Jorge Garay"
+    },
+    {
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "source": "Wired",
+      "published": "2026-09-08 20:12:51",
+      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+      "author": "Lily Hay Newman, Maxwell Zeff"
+    },
+    {
+      "title": "Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK",
+      "url": "https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/",
+      "source": "Wired",
+      "published": "2026-09-08 18:13:26",
+      "summary": "Now the UK government plans to introduce new legislation that would see companies face fines and potential criminal liability, and signaled similar plans could extend to Snapchat and Instagram.",
+      "author": "Isabella Ward"
+    },
+    {
+      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+      "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+      "source": "Wired",
+      "published": "2026-09-08 16:42:05",
+      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+      "author": "Will Knight, Maxwell Zeff"
+    },
+    {
+      "title": "Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone",
+      "url": "https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/",
+      "source": "Wired",
+      "published": "2026-09-08 16:00:00",
+      "summary": "The competition is “absolutely welcome” by the pioneering Korean giant, but Samsung warns that the device’s “weight” is crucial.",
+      "author": "Julian Chokkattu"
+    },
+    {
+      "title": "Richard Kelly on Donnie Darko at 25: ‘It’s a Miracle That Any Movie Gets Made’",
+      "url": "https://www.wired.com/story/richard-kelly-donnie-darko-25th-anniversary-interview/",
+      "source": "Wired",
+      "published": "2026-09-08 14:00:00",
+      "summary": "The director discusses his debut novel, staying true to an artistic vision, and the absurd line of dialogue from Donnie Darko he believes will find its way into his obituary.",
+      "author": "Miles Klee"
+    },
+    {
+      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids",
+      "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+      "source": "Wired",
+      "published": "2026-09-08 12:00:00",
+      "summary": "Images of real children—including a member of a European royal family—were used to create some of the 350 ads containing child sexual abuse. Lawmakers say they plan to investigate.",
+      "author": "Matt Burgess"
+    },
+    {
+      "title": "How NASA Testing Changed US Food Inspection Forever",
+      "url": "https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/",
+      "source": "Wired",
+      "published": "2026-09-08 11:00:00",
+      "summary": "In the early 20th century, public outcry following Upton Sinclair’s The Jungle led to stricter food safety protocols. NASA took them a step further.",
+      "author": "Alex Davies"
+    },
+    {
+      "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+      "url": "https://www.wired.com/story/best-smart-speakers/",
+      "source": "Wired",
+      "published": "2026-09-08 10:35:00",
+      "summary": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
       "author": "Nena Farrell"
     },
     {
-      "title": "The 57 Best Deals From the REI Labor Day Sale",
-      "url": "https://www.wired.com/story/rei-labor-day-sale-2026/",
+      "title": "Insta360 X6 Review (2026): A Great 360 and Action Camera Hybrid",
+      "url": "https://www.wired.com/review/insta360-x6-camera/",
       "source": "Wired",
-      "published": "2026-09-07 13:33:30",
-      "summary": "Labor Day already? Say it ain’t so. Today is the last day to shop the best deals on WIRED-tested outdoor gear from REI, Nemo, MSR, Coleman, and more during REI’s Labor Day sale.",
+      "published": "2026-09-08 10:00:00",
+      "summary": "Insta360’s latest 360-degree camera uses larger sensors for better low-light performance and has a smaller body.",
       "author": "Scott Gilbertson"
     },
     {
-      "title": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
-      "url": "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/",
-      "source": "Wired",
-      "published": "2026-09-07 12:00:00",
-      "summary": "Dark energy might be getting weaker. Scientists are wondering if interactions with dark matter in a “dark dimension” may be responsible.",
-      "author": "Steve Nadis"
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-08 12:10:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will...",
+      "author": "Thomas Macaulay"
     },
     {
-      "title": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.",
-      "url": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
-      "source": "Wired",
-      "published": "2026-09-07 11:30:00",
-      "summary": "The intricate, 5.6 trillion-pixel map covers approximately 75 percent of the sky and includes about 4 billion celestial objects.",
-      "author": "Ritsuko Kawai"
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-08 10:36:00",
+      "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and...",
+      "author": "Eshan Raul"
     },
     {
-      "title": "Every Samsung Galaxy Phone Comes With This Unique Add-On",
-      "url": "https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/",
-      "source": "Wired",
-      "published": "2026-09-07 11:00:00",
-      "summary": "It’s called the Edge Panel. Here’s how to make the most of it.",
-      "author": "David Nield"
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-08 10:34:00",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only ...",
+      "author": "Mat Honan"
     },
     {
-      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-      "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
-      "source": "Wired",
-      "published": "2026-09-07 10:30:00",
-      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
-      "author": "Reece Rogers"
+      "title": "This founder is making cheaper, cleaner steel",
+      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-08 10:33:00",
+      "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt...",
+      "author": "Bridget Reed Morawski"
     },
     {
-      "title": "How to Watch the Apple September Event (2026)",
-      "url": "https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/",
-      "source": "Wired",
-      "published": "2026-09-07 10:15:00",
-      "summary": "Apple’s annual hardware launch event may feel different as the company welcomes a new CEO alongside a folding iPhone.",
-      "author": "Boone Ashworth"
-    },
-    {
-      "title": "What’s the Best Kindle of 2026 (So Far)?",
-      "url": "https://www.wired.com/gallery/best-kindle/",
-      "source": "Wired",
-      "published": "2026-09-07 10:04:00",
-      "summary": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
-      "author": "Nena Farrell"
+      "title": "This geneticist’s age-reversal tech could help restore sight",
+      "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-08 10:32:00",
+      "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related bli...",
+      "author": "Antonio Regalado"
     },
     {
       "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
@@ -363,44 +403,44 @@
       "author": "Thomas Macaulay"
     },
     {
-      "title": "Agriculture relies on fossil fuels. It’s costing us.",
-      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-03 10:00:00",
-      "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especial...",
-      "author": "Casey Crownhart"
+      "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
+      "url": "https://sspai.com/post/114352",
+      "source": "少数派",
+      "published": "2026-09-09 00:00:00",
+      "summary": "Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等。查看全文",
+      "author": "少数派编辑部"
     },
     {
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-03 09:30:32",
-      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across ...",
-      "author": "MIT Technology Review Insights"
+      "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+      "url": "https://sspai.com/prime/story/sidecar-optimizations",
+      "source": "少数派",
+      "published": "2026-09-08 10:14:30",
+      "summary": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "author": "Nnnobel"
     },
     {
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-02 14:00:00",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds ...",
-      "author": "MIT Technology Review Insights"
+      "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
+      "url": "https://sspai.com/post/114327",
+      "source": "少数派",
+      "published": "2026-09-08 09:00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+      "author": "Matrix机器人"
     },
     {
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-02 12:10:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any bett...",
-      "author": "Thomas Macaulay"
+      "title": "一日一技｜我的 Windows 11 头像会动，你也可以",
+      "url": "https://sspai.com/post/114312",
+      "source": "少数派",
+      "published": "2026-09-08 07:00:00",
+      "summary": "Where's everyone going? Bingo?查看全文",
+      "author": "克莱德"
     },
     {
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-01 19:10:36",
-      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all...",
-      "author": "Michelle Kim"
+      "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
+      "url": "https://sspai.com/post/113299",
+      "source": "少数派",
+      "published": "2026-09-08 03:06:21",
+      "summary": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文",
+      "author": "SIMON_"
     },
     {
       "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等",
@@ -435,14 +475,6 @@
       "author": "随便好啦"
     },
     {
-      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
-      "url": "https://sspai.com/post/114250",
-      "source": "少数派",
-      "published": "2026-09-07 00:20:41",
-      "summary": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文",
-      "author": "少数派编辑部"
-    },
-    {
       "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
       "url": "https://sspai.com/post/114076",
       "source": "少数派",
@@ -451,116 +483,84 @@
       "author": "ElijahLee"
     },
     {
-      "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
-      "url": "https://sspai.com/post/114040",
-      "source": "少数派",
-      "published": "2026-09-05 08:00:01",
-      "summary": "它没有卷到极致的轻量化，也没有最极端的气动数据，但综合实力稳稳站在顶级公路车的第一梯队。查看全文",
-      "author": "写小黑文的Alex"
-    },
-    {
-      "title": "本周看什么 | 最近值得一看的 8 部作品",
-      "url": "https://sspai.com/post/114175",
-      "source": "少数派",
-      "published": "2026-09-04 09:32:48",
-      "summary": "📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文",
-      "author": "少数派编辑部"
-    },
-    {
-      "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
-      "url": "https://sspai.com/post/114110",
-      "source": "少数派",
-      "published": "2026-09-04 07:11:46",
-      "summary": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文",
-      "author": "福利派"
-    },
-    {
-      "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
-      "url": "https://sspai.com/post/114117",
-      "source": "少数派",
-      "published": "2026-09-04 07:01:57",
-      "summary": "研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文",
-      "author": "谷雨G2rain"
-    },
-    {
-      "title": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
-      "url": "https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article",
+      "title": "Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
+      "url": "https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-09-08 09:11:00",
-      "summary": "点击查看原文>",
-      "author": "作者： Daniel Dominguez"
-    },
-    {
-      "title": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
-      "url": "https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "published": "2026-09-07 19:33:00",
-      "summary": "点击查看原文>",
-      "author": "作者：Craig Risi"
-    },
-    {
-      "title": "从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海",
-      "url": "https://www.infoq.cn/article/5Xy6jTfq7Si98XvXAJCp?utm_source=rss&utm_medium=article",
-      "source": "InfoQ",
-      "published": "2026-09-07 19:30:38",
+      "published": "2026-09-09 10:00:00",
       "summary": "点击查看原文>",
       "author": "QCon全球软件开发大会"
     },
     {
-      "title": "利用 Workload Identity Federation 清除 GCP 中长期有效的凭据",
-      "url": "https://www.infoq.cn/article/bEwEWltvchcPZUACt36w?utm_source=rss&utm_medium=article",
+      "title": "Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！",
+      "url": "https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-09-07 18:24:00",
+      "published": "2026-09-09 09:00:00",
       "summary": "点击查看原文>",
-      "author": "作者： Shijin Nair"
+      "author": "凌敏"
     },
     {
-      "title": "Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
-      "url": "https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article",
+      "title": "从告警风暴到一句话诊断：HCF 全息编码框架科普",
+      "url": "https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-09-07 17:34:00",
+      "published": "2026-09-08 20:59:09",
       "summary": "点击查看原文>",
-      "author": "作者： Sergio De Simone"
+      "author": "刘翔宇"
     },
     {
-      "title": "AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来",
-      "url": "https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article",
+      "title": "Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+      "url": "https://www.infoq.cn/article/IR6XdUEok3aY1YSDOvat?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-09-07 16:32:04",
+      "published": "2026-09-08 20:35:10",
       "summary": "点击查看原文>",
-      "author": "作者：Renato Losio"
+      "author": "李冬梅"
     },
     {
-      "title": "TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统",
-      "url": "https://www.infoq.cn/article/atCusTaSOmddUx1vvJba?utm_source=rss&utm_medium=article",
+      "title": "Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息",
+      "url": "https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-09-07 16:18:46",
+      "published": "2026-09-08 17:06:00",
       "summary": "点击查看原文>",
-      "author": "傅宇琪,Tina"
+      "author": "作者：Olimpiu Pop"
     },
     {
-      "title": "“薄 Agent Loop，厚 Control Plane”：TiDB 用数据库思维重做 Harness",
-      "url": "https://www.infoq.cn/article/38uc758e24YV4LUpAs77?utm_source=rss&utm_medium=article",
+      "title": "Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+      "url": "https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-09-07 16:10:35",
+      "published": "2026-09-08 16:31:12",
       "summary": "点击查看原文>",
-      "author": "Tina"
+      "author": "蔡芳芳"
     },
     {
-      "title": "9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约",
-      "url": "https://www.infoq.cn/article/D5heSof43WbGMHrCCIsy?utm_source=rss&utm_medium=article",
+      "title": "华为乾崑，守护200万份信任",
+      "url": "https://www.infoq.cn/article/TzHCuwlw0ftVmMe4EfXv?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-09-07 15:48:20",
+      "published": "2026-09-08 15:39:02",
       "summary": "点击查看原文>",
-      "author": "InfoQ"
+      "author": "HarmonyOS"
     },
     {
-      "title": "成立 12 年，快看漫画重做 AI 时代的内容产品",
-      "url": "https://www.infoq.cn/article/kAHvBCLrI3sdMyONOveM?utm_source=rss&utm_medium=article",
+      "title": "Swiggy 基于 350 多个特征与多任务 MLP 实现客户终身价值预测",
+      "url": "https://www.infoq.cn/article/9yQHZ7fZeIBMidz6pjPC?utm_source=rss&utm_medium=article",
       "source": "InfoQ",
-      "published": "2026-09-07 15:08:45",
+      "published": "2026-09-08 15:06:00",
       "summary": "点击查看原文>",
-      "author": "陈姚戈"
+      "author": "作者：Leela Kumili"
+    },
+    {
+      "title": "OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来",
+      "url": "https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-08 13:55:41",
+      "summary": "点击查看原文>",
+      "author": "李冬梅"
+    },
+    {
+      "title": "OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互",
+      "url": "https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&utm_medium=article",
+      "source": "InfoQ",
+      "published": "2026-09-08 13:32:00",
+      "summary": "点击查看原文>",
+      "author": "作者：Eran Stiller"
     }
   ]
 }
